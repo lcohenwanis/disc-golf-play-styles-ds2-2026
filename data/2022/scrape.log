@@ -1,0 +1,37 @@
+2026-10-05 22:02:32,256 [INFO] Scraping 15 events
+2026-10-05 22:02:33,541 [INFO]   57217: DGVTour Opener - South Shire Open (Apr 23-24, 2022), 12 divisions, 2 rounds
+2026-10-05 22:03:02,513 [INFO]   57218: DGVTour #2 - Hometown Huck (Saturday, May 7, 2022), 10 divisions, 2 rounds
+2026-10-05 22:03:27,032 [INFO]   57219: DGVTour #3 - Quarries Throwdown (May 21-22, 2022), 14 divisions, 2 rounds
+2026-10-05 22:04:00,570 [INFO]   57221: DGVTour #4 - 20th Annual Sap Bucket Open (Jun 4-5, 2022), 13 divisions, 2 rounds
+2026-10-05 22:04:31,916 [INFO]   55101: Brewster Ridge Open Driven by Innova (Jun 17-19, 2022), 15 divisions, 3 rounds
+2026-10-05 22:05:24,887 [INFO]   57225: DGVTour #6 - Gnomes Challenge (Jul 2-3, 2022), 12 divisions, 2 rounds
+2026-10-05 22:05:54,797 [INFO]   57226: DGVTour #7 - Black Falls Open (Jul 16-17, 2022), 13 divisions, 2 rounds
+2026-10-05 22:06:25,977 [INFO]   57228: DGVTour #8 - Lincoln Peak Open (Jul 30-31, 2022), 8 divisions, 2 rounds
+2026-10-05 22:06:45,859 [INFO]   57229: DGVTour #9 - 30th Annual North Calais Open (Aug 13-14, 2022), 15 divisions, 2 rounds
+2026-10-05 22:07:21,330 [INFO]   57230: DGVTour #10 - Magic Mountain Open (Aug 27-28, 2022), 11 divisions, 2 rounds
+2026-10-05 22:07:47,816 [INFO]   62737: DGVTour #11 Jay Peak Open (Saturday, Sep 10, 2022), 6 divisions, 2 rounds
+2026-10-05 22:08:03,152 [INFO]   57231: DGVTour #11 - Vista Beast Challenge (Sep 10-11, 2022), 0 divisions, 3 rounds
+2026-10-05 22:08:05,370 [INFO]   57232: DGVTour #12 - The Hills Are Alive (Saturday, Sep 24, 2022), 13 divisions, 2 rounds
+2026-10-05 22:08:37,429 [INFO]   57233: DGVTour #13 - Cold Hollow Classic (Oct 1-2, 2022), 11 divisions, 2 rounds
+2026-10-05 22:09:05,771 [INFO]   57234: DGVTour Finals - Vermont State Championship (Oct 15-16, 2022), 11 divisions, 2 rounds
+2026-10-05 22:09:31,175 [INFO] 
+Parsing raw files
+2026-10-05 22:09:31,273 [INFO]     57217  2022   302 player-rounds,  301 usable (100%),   5418 hole scores  DGVTour Opener - South Shire Open
+2026-10-05 22:09:31,328 [INFO]     57218  2022   178 player-rounds,  178 usable (100%),   3204 hole scores  DGVTour #2 - Hometown Huck
+2026-10-05 22:09:31,406 [INFO]     57219  2022   326 player-rounds,  321 usable (98%),   5778 hole scores  DGVTour #3 - Quarries Throwdown
+2026-10-05 22:09:31,491 [INFO]     57221  2022   362 player-rounds,  355 usable (98%),   6390 hole scores  DGVTour #4 - 20th Annual Sap Bucket Open
+2026-10-05 22:09:31,676 [INFO]     55101  2022   957 player-rounds,  947 usable (99%),  17046 hole scores  Brewster Ridge Open Driven by Innova
+2026-10-05 22:09:31,730 [INFO]     57225  2022   206 player-rounds,  206 usable (100%),   3708 hole scores  DGVTour #6 - Gnomes Challenge
+2026-10-05 22:09:31,815 [INFO]     57226  2022   280 player-rounds,  277 usable (99%),   5000 hole scores  DGVTour #7 - Black Falls Open
+2026-10-05 22:09:31,856 [INFO]     57228  2022   144 player-rounds,  143 usable (99%),   2574 hole scores  DGVTour #8 - Lincoln Peak Open
+2026-10-05 22:09:31,925 [INFO]     57229  2022   264 player-rounds,  258 usable (98%),   4644 hole scores  DGVTour #9 - 30th Annual North Calais Open
+2026-10-05 22:09:31,989 [INFO]     57230  2022   180 player-rounds,  178 usable (99%),   3204 hole scores  DGVTour #10 - Magic Mountain Open
+2026-10-05 22:09:32,020 [INFO]     62737  2022   106 player-rounds,  106 usable (100%),   1908 hole scores  DGVTour #11 Jay Peak Open
+2026-10-05 22:09:32,021 [INFO]     57231  2022     0 player-rounds,    0 usable (0%),      0 hole scores  DGVTour #11 - Vista Beast Challenge
+2026-10-05 22:09:32,069 [INFO]     57232  2022   174 player-rounds,  173 usable (99%),   3114 hole scores  DGVTour #12 - The Hills Are Alive
+2026-10-05 22:09:32,136 [INFO]     57233  2022   268 player-rounds,  266 usable (99%),   4788 hole scores  DGVTour #13 - Cold Hollow Classic
+2026-10-05 22:09:32,223 [INFO]     57234  2022   282 player-rounds,  281 usable (100%),   5058 hole scores  DGVTour Finals - Vermont State Championship
+2026-10-05 22:09:32,458 [INFO] 
+15 events (14 with hole scores), 4029 player-rounds (3990 usable), 71834 hole scores
+2026-10-05 22:09:32,458 [INFO] Unfinished (999) rounds: 18; hole sum != round score: 0
+2026-10-05 22:09:32,458 [INFO] Tables -> /Users/luc/Fall 2026/Data Science 2/disc-golf-play-styles-ds2-2026/data/2022/processed
