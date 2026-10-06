@@ -1,0 +1,12 @@
+event_id,name,year,start_date,end_date,tier,location,scoring_format,n_rounds,n_divisions,n_layouts,n_players,n_player_rounds,n_rounds_with_holes,n_rounds_usable,n_unfinished_999,share_usable,has_hole_scores,is_final
+98155,DGVTour #1 - South Shire Shootout,2026,2026-04-18,2026-04-19,C,"Bennington, Vermont",S,2,15,4,155,310,308,305,2,0.984,True,True
+98157,DGVTour #2 - Battle of Pittsford,2026,2026-04-26,2026-04-26,C,"Pittsford, Vermont",S,2,14,1,90,180,179,179,1,0.994,True,True
+98161,DGVTour #3 - Gnomes Challenge,2026,2026-05-09,2026-05-10,C,"Randolph, Vermont",S,2,19,2,119,238,238,237,0,0.996,True,True
+98162,DGVTour #4 - Quarries Throwdown + WGE,2026,2026-05-23,2026-05-24,B,"Websterville, Vermont",S,2,18,2,157,314,313,313,1,0.997,True,True
+98220,DGVTour #5 - Sap Bucket Open,2026,2026-06-06,2026-06-07,C,"Waterbury, Vermont",S,2,15,4,85,170,169,169,1,0.994,True,True
+97998,DGVTour #6 - Brewster Ridge Open Driven by Innova - DGPT Q-Series,2026,2026-06-19,2026-06-21,A,"Jeffersonville, Vermont",S,3,15,6,353,1059,1045,1043,7,0.985,True,True
+98242,DGVTour #7 - Black Falls Open,2026,2026-07-11,2026-07-12,B,"Montgomery, Vermont",S,2,14,3,111,222,222,222,0,1.0,True,True
+98252,DGVTour #8 - North Calais Open,2026,2026-08-08,2026-08-09,C,"North Calais, Vermont",S,2,15,3,126,252,249,249,0,0.988,True,True
+98424,DGVTour #9 - Kingdom Open,2026,2026-08-22,2026-08-23,B,"Lyndonville, Vermont",S,2,17,4,104,208,206,206,2,0.99,True,True
+98313,DGVTour #10 - Capital City Cup,2026,2026-09-05,2026-09-06,B,"Montpelier, Vermont",S,2,10,3,63,126,126,126,0,1.0,True,True
+98254,DGVTour #11 - Cold Hollow Classic,2026,2026-09-26,2026-09-27,B,"Enosburg, Vermont",S,2,18,2,151,302,300,300,2,0.993,True,True
