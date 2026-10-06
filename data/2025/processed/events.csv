@@ -1,0 +1,13 @@
+event_id,name,year,start_date,end_date,tier,location,scoring_format,n_rounds,n_divisions,n_layouts,n_players,n_player_rounds,n_rounds_with_holes,n_rounds_usable,n_unfinished_999,share_usable,has_hole_scores,is_final
+87899,DGVTour #1 - South Shire Shootout,2025,2025-04-26,2025-04-27,C,"Bennington, Vermont",S,2,13,2,134,268,266,266,1,0.993,True,True
+87900,DGVTour #2 - Gnomes Challenge XVII,2025,2025-05-10,2025-05-11,C,"Randolph, Vermont",S,2,16,2,113,226,225,225,1,0.996,True,True
+88027,DGVTour #3 - Quarries Throwdown,2025,2025-05-24,2025-05-25,B,"Websterville, Vermont",S,2,15,2,154,308,303,302,4,0.981,True,True
+88189,DGVTour #4 - Battle of Pittsford,2025,2025-06-07,2025-06-08,C,"Pittsford, Vermont",S,2,9,1,80,160,159,159,1,0.994,True,True
+86523,DGVTour #5 - Brewster Ridge Open,2025,2025-06-20,2025-06-22,A,"Jeffersonville, Vermont",S,3,15,11,350,1050,1012,1004,9,0.956,True,True
+88944,DGVTour #6 - Black Falls Open,2025,2025-07-12,2025-07-13,B,"Montgomery, Vermont",S,2,15,3,118,236,233,232,2,0.983,True,True
+90019,DGVTour #7 - Lincoln Peak Open,2025,2025-07-27,2025-07-27,C,"Warren, Vermont",S,2,9,2,52,104,103,103,1,0.99,True,True
+90283,DGVTour #8 - North Calais Open,2025,2025-08-09,2025-08-10,C,"North Calais, Vermont",S,2,14,3,125,250,247,247,2,0.988,True,True
+90932,DGVTour #9 - Sap Bucket Open XXIII,2025,2025-08-23,2025-08-24,C,"Waterbury Center, Vermont",S,2,11,3,72,144,143,143,1,0.993,True,True
+91169,DGVTour #10 - Horace Hill Huck,2025,2025-09-06,2025-09-06,C,"West Dover, Vermont",S,2,9,1,43,86,85,84,1,0.977,True,True
+91399,DGVTour #11 - Cold Hollow Classic,2025,2025-09-27,2025-09-28,B,"Enosburg, Vermont",S,2,16,2,154,308,306,306,2,0.994,True,True
+91411,DGVTour Finals - Vermont State Championship,2025,2025-10-11,2025-10-12,B,"Jeffersonville, Vermont",S,2,15,6,180,360,358,357,1,0.992,True,True
