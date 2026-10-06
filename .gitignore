@@ -1,0 +1,7 @@
+# Raw data files - okay to have scrape log and processed data in the repo, but not raw data files
+# pattern of data/year/raw/* to ignore all raw data files in the data directory for each year
+data/*/raw/*
+
+# OS and Python clutter
+.DS_Store
+__pycache__/
