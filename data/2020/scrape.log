@@ -1,0 +1,25 @@
+2026-10-05 22:16:10,502 [INFO] Scraping 9 events
+2026-10-05 22:16:11,767 [INFO]   45898: DGVTour #2 - The BRO (Jun 13-14, 2020), 10 divisions, 2 rounds
+2026-10-05 22:16:36,146 [INFO]   46036: DGVT #3 - Sap Bucket Open XVII (Jun 27-28, 2020), 10 divisions, 2 rounds
+2026-10-05 22:17:00,347 [INFO]   46247: DGVT #4 Run for the Border (Jul 11-12, 2020), 11 divisions, 2 rounds
+2026-10-05 22:17:26,763 [INFO]   46474: DGVT #5 Gnomes Challenge XIII (Jul 25-26, 2020), 8 divisions, 2 rounds
+2026-10-05 22:17:46,633 [INFO]   46697: DGVTour #6 - North Calais Open (Aug 8-9, 2020), 9 divisions, 2 rounds
+2026-10-05 22:18:09,966 [INFO]   46877: DGVT #7 Wrightsville Beach Open (Aug 22-23, 2020), 9 divisions, 2 rounds
+2026-10-05 22:18:31,922 [INFO]   47319: DGVT #8 Stone Village Shootout (Sep 26-27, 2020), 8 divisions, 2 rounds
+2026-10-05 22:18:51,615 [INFO]   47320: DGVT #9 Vista Beast Challenge  (Oct 3-4, 2020), 7 divisions, 2 rounds
+2026-10-05 22:19:10,829 [INFO]   47321: DGVT Vermont State Championship/Tour Finals (Oct 17-18, 2020), 7 divisions, 2 rounds
+2026-10-05 22:19:27,292 [INFO] 
+Parsing raw files
+2026-10-05 22:19:27,378 [INFO]     45898  2020   268 player-rounds,  268 usable (100%),   4824 hole scores  DGVTour #2 - The BRO
+2026-10-05 22:19:27,448 [INFO]     46036  2020   256 player-rounds,  256 usable (100%),   4608 hole scores  DGVT #3 - Sap Bucket Open XVII
+2026-10-05 22:19:27,497 [INFO]     46247  2020   184 player-rounds,  182 usable (99%),   3284 hole scores  DGVT #4 Run for the Border
+2026-10-05 22:19:27,543 [INFO]     46474  2020   190 player-rounds,  190 usable (100%),   3420 hole scores  DGVT #5 Gnomes Challenge XIII
+2026-10-05 22:19:27,587 [INFO]     46697  2020   170 player-rounds,  169 usable (99%),   3042 hole scores  DGVTour #6 - North Calais Open
+2026-10-05 22:19:27,645 [INFO]     46877  2020   184 player-rounds,   78 usable (42%),   1468 hole scores  DGVT #7 Wrightsville Beach Open
+2026-10-05 22:19:27,675 [INFO]     47319  2020    96 player-rounds,   96 usable (100%),   1728 hole scores  DGVT #8 Stone Village Shootout
+2026-10-05 22:19:27,714 [INFO]     47320  2020   154 player-rounds,  150 usable (97%),   2700 hole scores  DGVT #9 Vista Beast Challenge 
+2026-10-05 22:19:27,747 [INFO]     47321  2020   114 player-rounds,  114 usable (100%),   2052 hole scores  DGVT Vermont State Championship/Tour Finals
+2026-10-05 22:19:27,834 [INFO] 
+9 events (9 with hole scores), 1616 player-rounds (1503 usable), 27126 hole scores
+2026-10-05 22:19:27,834 [INFO] Unfinished (999) rounds: 4; hole sum != round score: 0
+2026-10-05 22:19:27,834 [INFO] Tables -> /Users/luc/Fall 2026/Data Science 2/disc-golf-play-styles-ds2-2026/data/2020/processed
