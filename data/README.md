@@ -42,8 +42,6 @@ To re-run a season, pass that season's event IDs from the CSV with `--data-dir d
 - **2019 has almost no hole-by-hole data.** Only stops #9 and the Finals have hole scores, and #9 only for about half its player-rounds. From 2020 on, almost every event has them. The exceptions are 49954 (2021 North Calais Open, 4 of 214 player-rounds) and 46877 (2020 Wrightsville Beach Open, 88 of 184).
 - **Two events were cancelled:** 57231 (2022 #11 Vista Beast Challenge) and 68349 (2023 #9 Magic Mountain Open). They're listed on PDGA but have no players or results.
 
-The earlier scrapes in `~/Downloads/claude_pdga_scraper/pdga-live-scraper/data/` should no longer be used. Their ratings are from the day of the scrape, not the event. For example, 1 of 91 players matched the event-time rating in 87900, and 3 of 137 in 98155. They also contain duplicate rows and skip some divisions.
-
 ### 2026
 
 | Stop | Event ID | Event | Player-rounds | Usable | Hole scores | Notes |
