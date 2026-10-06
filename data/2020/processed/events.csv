@@ -1,0 +1,10 @@
+event_id,name,year,start_date,end_date,tier,location,scoring_format,n_rounds,n_divisions,n_layouts,n_players,n_player_rounds,n_rounds_with_holes,n_rounds_usable,n_unfinished_999,share_usable,has_hole_scores,is_final
+45898,DGVTour #2 - The BRO,2020,2020-06-13,2020-06-14,B,"Jeffersonville, Vermont",S,2,10,7,134,268,268,268,0,1.0,True,True
+46036,DGVT #3 - Sap Bucket Open XVII,2020,2020-06-27,2020-06-28,C,"Waterbury Center, Vermont",S,2,10,2,128,256,256,256,0,1.0,True,True
+46247,DGVT #4 Run for the Border,2020,2020-07-11,2020-07-12,B,"Montgomery Center, Vermont",S,2,11,2,92,184,183,182,0,0.989,True,True
+46474,DGVT #5 Gnomes Challenge XIII,2020,2020-07-25,2020-07-26,C,", Randolph, Vermont",S,2,8,1,95,190,190,190,0,1.0,True,True
+46697,DGVTour #6 - North Calais Open,2020,2020-08-08,2020-08-09,C,"North Calais, Vermont",S,2,9,3,85,170,169,169,1,0.994,True,True
+46877,DGVT #7 Wrightsville Beach Open,2020,2020-08-22,2020-08-23,C,"Middlesex, Vermont",S,2,9,3,92,184,88,78,1,0.424,True,True
+47319,DGVT #8 Stone Village Shootout,2020,2020-09-26,2020-09-27,C,"Chester, Vermont",S,2,8,2,48,96,96,96,0,1.0,True,True
+47320,DGVT #9 Vista Beast Challenge ,2020,2020-10-03,2020-10-04,C,"Bolton Valley, Vermont",S,2,7,2,77,154,150,150,2,0.974,True,True
+47321,DGVT Vermont State Championship/Tour Finals,2020,2020-10-17,2020-10-18,C,"Killington, Vermont",S,2,7,1,57,114,114,114,0,1.0,True,True

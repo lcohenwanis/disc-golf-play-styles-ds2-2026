@@ -1,0 +1,577 @@
+event_id,layout_id,course_id,course_name,layout_name,n_holes,layout_par,layout_length_ft,hole,hole_label,par,length_ft
+45898,295021,26694,Smugglers Notch Disc Golf Center - Brewster Ridge,Default Layout,18,54,,1,1,3,
+45898,295021,26694,Smugglers Notch Disc Golf Center - Brewster Ridge,Default Layout,18,54,,2,2,3,
+45898,295021,26694,Smugglers Notch Disc Golf Center - Brewster Ridge,Default Layout,18,54,,3,3,3,
+45898,295021,26694,Smugglers Notch Disc Golf Center - Brewster Ridge,Default Layout,18,54,,4,4,3,
+45898,295021,26694,Smugglers Notch Disc Golf Center - Brewster Ridge,Default Layout,18,54,,5,5,3,
+45898,295021,26694,Smugglers Notch Disc Golf Center - Brewster Ridge,Default Layout,18,54,,6,6,3,
+45898,295021,26694,Smugglers Notch Disc Golf Center - Brewster Ridge,Default Layout,18,54,,7,7,3,
+45898,295021,26694,Smugglers Notch Disc Golf Center - Brewster Ridge,Default Layout,18,54,,8,8,3,
+45898,295021,26694,Smugglers Notch Disc Golf Center - Brewster Ridge,Default Layout,18,54,,9,9,3,
+45898,295021,26694,Smugglers Notch Disc Golf Center - Brewster Ridge,Default Layout,18,54,,10,10,3,
+45898,295021,26694,Smugglers Notch Disc Golf Center - Brewster Ridge,Default Layout,18,54,,11,11,3,
+45898,295021,26694,Smugglers Notch Disc Golf Center - Brewster Ridge,Default Layout,18,54,,12,12,3,
+45898,295021,26694,Smugglers Notch Disc Golf Center - Brewster Ridge,Default Layout,18,54,,13,13,3,
+45898,295021,26694,Smugglers Notch Disc Golf Center - Brewster Ridge,Default Layout,18,54,,14,14,3,
+45898,295021,26694,Smugglers Notch Disc Golf Center - Brewster Ridge,Default Layout,18,54,,15,15,3,
+45898,295021,26694,Smugglers Notch Disc Golf Center - Brewster Ridge,Default Layout,18,54,,16,16,3,
+45898,295021,26694,Smugglers Notch Disc Golf Center - Brewster Ridge,Default Layout,18,54,,17,17,3,
+45898,295021,26694,Smugglers Notch Disc Golf Center - Brewster Ridge,Default Layout,18,54,,18,18,3,
+45898,295336,220581,Smugglers Notch Disc Golf Center - Fox Run,Fox Run Meadows Blue Tees,18,63,8415,1,1,4,600
+45898,295336,220581,Smugglers Notch Disc Golf Center - Fox Run,Fox Run Meadows Blue Tees,18,63,8415,2,2,3,270
+45898,295336,220581,Smugglers Notch Disc Golf Center - Fox Run,Fox Run Meadows Blue Tees,18,63,8415,3,3,3,285
+45898,295336,220581,Smugglers Notch Disc Golf Center - Fox Run,Fox Run Meadows Blue Tees,18,63,8415,4,4,4,465
+45898,295336,220581,Smugglers Notch Disc Golf Center - Fox Run,Fox Run Meadows Blue Tees,18,63,8415,5,5,3,445
+45898,295336,220581,Smugglers Notch Disc Golf Center - Fox Run,Fox Run Meadows Blue Tees,18,63,8415,6,6,3,290
+45898,295336,220581,Smugglers Notch Disc Golf Center - Fox Run,Fox Run Meadows Blue Tees,18,63,8415,7,7,5,1085
+45898,295336,220581,Smugglers Notch Disc Golf Center - Fox Run,Fox Run Meadows Blue Tees,18,63,8415,8,8,4,550
+45898,295336,220581,Smugglers Notch Disc Golf Center - Fox Run,Fox Run Meadows Blue Tees,18,63,8415,9,9,3,375
+45898,295336,220581,Smugglers Notch Disc Golf Center - Fox Run,Fox Run Meadows Blue Tees,18,63,8415,10,10,3,295
+45898,295336,220581,Smugglers Notch Disc Golf Center - Fox Run,Fox Run Meadows Blue Tees,18,63,8415,11,11,4,500
+45898,295336,220581,Smugglers Notch Disc Golf Center - Fox Run,Fox Run Meadows Blue Tees,18,63,8415,12,12,4,630
+45898,295336,220581,Smugglers Notch Disc Golf Center - Fox Run,Fox Run Meadows Blue Tees,18,63,8415,13,13,3,350
+45898,295336,220581,Smugglers Notch Disc Golf Center - Fox Run,Fox Run Meadows Blue Tees,18,63,8415,14,14,3,305
+45898,295336,220581,Smugglers Notch Disc Golf Center - Fox Run,Fox Run Meadows Blue Tees,18,63,8415,15,15,3,315
+45898,295336,220581,Smugglers Notch Disc Golf Center - Fox Run,Fox Run Meadows Blue Tees,18,63,8415,16,16,4,600
+45898,295336,220581,Smugglers Notch Disc Golf Center - Fox Run,Fox Run Meadows Blue Tees,18,63,8415,17,17,3,400
+45898,295336,220581,Smugglers Notch Disc Golf Center - Fox Run,Fox Run Meadows Blue Tees,18,63,8415,18,18,4,655
+45898,295341,26694,Smugglers Notch Disc Golf Center - Brewster Ridge,Brewster Ridge Blue Tees,18,61,6525,1,1,3,240
+45898,295341,26694,Smugglers Notch Disc Golf Center - Brewster Ridge,Brewster Ridge Blue Tees,18,61,6525,2,2,4,450
+45898,295341,26694,Smugglers Notch Disc Golf Center - Brewster Ridge,Brewster Ridge Blue Tees,18,61,6525,3,3,3,325
+45898,295341,26694,Smugglers Notch Disc Golf Center - Brewster Ridge,Brewster Ridge Blue Tees,18,61,6525,4,4,4,450
+45898,295341,26694,Smugglers Notch Disc Golf Center - Brewster Ridge,Brewster Ridge Blue Tees,18,61,6525,5,5,3,285
+45898,295341,26694,Smugglers Notch Disc Golf Center - Brewster Ridge,Brewster Ridge Blue Tees,18,61,6525,6,6,3,315
+45898,295341,26694,Smugglers Notch Disc Golf Center - Brewster Ridge,Brewster Ridge Blue Tees,18,61,6525,7,7,4,605
+45898,295341,26694,Smugglers Notch Disc Golf Center - Brewster Ridge,Brewster Ridge Blue Tees,18,61,6525,8,8,4,440
+45898,295341,26694,Smugglers Notch Disc Golf Center - Brewster Ridge,Brewster Ridge Blue Tees,18,61,6525,9,9,3,305
+45898,295341,26694,Smugglers Notch Disc Golf Center - Brewster Ridge,Brewster Ridge Blue Tees,18,61,6525,10,10,3,410
+45898,295341,26694,Smugglers Notch Disc Golf Center - Brewster Ridge,Brewster Ridge Blue Tees,18,61,6525,11,11,4,450
+45898,295341,26694,Smugglers Notch Disc Golf Center - Brewster Ridge,Brewster Ridge Blue Tees,18,61,6525,12,12,3,350
+45898,295341,26694,Smugglers Notch Disc Golf Center - Brewster Ridge,Brewster Ridge Blue Tees,18,61,6525,13,13,4,375
+45898,295341,26694,Smugglers Notch Disc Golf Center - Brewster Ridge,Brewster Ridge Blue Tees,18,61,6525,14,14,3,260
+45898,295341,26694,Smugglers Notch Disc Golf Center - Brewster Ridge,Brewster Ridge Blue Tees,18,61,6525,15,15,3,290
+45898,295341,26694,Smugglers Notch Disc Golf Center - Brewster Ridge,Brewster Ridge Blue Tees,18,61,6525,16,16,3,295
+45898,295341,26694,Smugglers Notch Disc Golf Center - Brewster Ridge,Brewster Ridge Blue Tees,18,61,6525,17,17,4,400
+45898,295341,26694,Smugglers Notch Disc Golf Center - Brewster Ridge,Brewster Ridge Blue Tees,18,61,6525,18,18,3,280
+45898,295346,26694,Smugglers Notch Disc Golf Center - Brewster Ridge,Brewster Ridge Gold Course,18,61,8025,1,1,3,315
+45898,295346,26694,Smugglers Notch Disc Golf Center - Brewster Ridge,Brewster Ridge Gold Course,18,61,8025,2,2,4,550
+45898,295346,26694,Smugglers Notch Disc Golf Center - Brewster Ridge,Brewster Ridge Gold Course,18,61,8025,3,3,3,325
+45898,295346,26694,Smugglers Notch Disc Golf Center - Brewster Ridge,Brewster Ridge Gold Course,18,61,8025,4,4,4,575
+45898,295346,26694,Smugglers Notch Disc Golf Center - Brewster Ridge,Brewster Ridge Gold Course,18,61,8025,5,5,3,285
+45898,295346,26694,Smugglers Notch Disc Golf Center - Brewster Ridge,Brewster Ridge Gold Course,18,61,8025,6,6,3,365
+45898,295346,26694,Smugglers Notch Disc Golf Center - Brewster Ridge,Brewster Ridge Gold Course,18,61,8025,7,7,4,665
+45898,295346,26694,Smugglers Notch Disc Golf Center - Brewster Ridge,Brewster Ridge Gold Course,18,61,8025,8,8,4,610
+45898,295346,26694,Smugglers Notch Disc Golf Center - Brewster Ridge,Brewster Ridge Gold Course,18,61,8025,9,9,3,370
+45898,295346,26694,Smugglers Notch Disc Golf Center - Brewster Ridge,Brewster Ridge Gold Course,18,61,8025,10,10,3,470
+45898,295346,26694,Smugglers Notch Disc Golf Center - Brewster Ridge,Brewster Ridge Gold Course,18,61,8025,11,11,4,615
+45898,295346,26694,Smugglers Notch Disc Golf Center - Brewster Ridge,Brewster Ridge Gold Course,18,61,8025,12,12,3,430
+45898,295346,26694,Smugglers Notch Disc Golf Center - Brewster Ridge,Brewster Ridge Gold Course,18,61,8025,13,13,4,555
+45898,295346,26694,Smugglers Notch Disc Golf Center - Brewster Ridge,Brewster Ridge Gold Course,18,61,8025,14,14,3,260
+45898,295346,26694,Smugglers Notch Disc Golf Center - Brewster Ridge,Brewster Ridge Gold Course,18,61,8025,15,15,3,360
+45898,295346,26694,Smugglers Notch Disc Golf Center - Brewster Ridge,Brewster Ridge Gold Course,18,61,8025,16,16,3,400
+45898,295346,26694,Smugglers Notch Disc Golf Center - Brewster Ridge,Brewster Ridge Gold Course,18,61,8025,17,17,4,530
+45898,295346,26694,Smugglers Notch Disc Golf Center - Brewster Ridge,Brewster Ridge Gold Course,18,61,8025,18,18,3,345
+45898,295351,220581,Smugglers Notch Disc Golf Center - Fox Run,Fox Run Meadows Gold Course,18,63,9370,1,1,4,600
+45898,295351,220581,Smugglers Notch Disc Golf Center - Fox Run,Fox Run Meadows Gold Course,18,63,9370,2,2,3,270
+45898,295351,220581,Smugglers Notch Disc Golf Center - Fox Run,Fox Run Meadows Gold Course,18,63,9370,3,3,3,285
+45898,295351,220581,Smugglers Notch Disc Golf Center - Fox Run,Fox Run Meadows Gold Course,18,63,9370,4,4,4,620
+45898,295351,220581,Smugglers Notch Disc Golf Center - Fox Run,Fox Run Meadows Gold Course,18,63,9370,5,5,3,445
+45898,295351,220581,Smugglers Notch Disc Golf Center - Fox Run,Fox Run Meadows Gold Course,18,63,9370,6,6,3,290
+45898,295351,220581,Smugglers Notch Disc Golf Center - Fox Run,Fox Run Meadows Gold Course,18,63,9370,7,7,5,1225
+45898,295351,220581,Smugglers Notch Disc Golf Center - Fox Run,Fox Run Meadows Gold Course,18,63,9370,8,8,4,675
+45898,295351,220581,Smugglers Notch Disc Golf Center - Fox Run,Fox Run Meadows Gold Course,18,63,9370,9,9,3,435
+45898,295351,220581,Smugglers Notch Disc Golf Center - Fox Run,Fox Run Meadows Gold Course,18,63,9370,10,10,3,295
+45898,295351,220581,Smugglers Notch Disc Golf Center - Fox Run,Fox Run Meadows Gold Course,18,63,9370,11,11,4,575
+45898,295351,220581,Smugglers Notch Disc Golf Center - Fox Run,Fox Run Meadows Gold Course,18,63,9370,12,12,4,720
+45898,295351,220581,Smugglers Notch Disc Golf Center - Fox Run,Fox Run Meadows Gold Course,18,63,9370,13,13,3,350
+45898,295351,220581,Smugglers Notch Disc Golf Center - Fox Run,Fox Run Meadows Gold Course,18,63,9370,14,14,3,380
+45898,295351,220581,Smugglers Notch Disc Golf Center - Fox Run,Fox Run Meadows Gold Course,18,63,9370,15,15,3,315
+45898,295351,220581,Smugglers Notch Disc Golf Center - Fox Run,Fox Run Meadows Gold Course,18,63,9370,16,16,4,715
+45898,295351,220581,Smugglers Notch Disc Golf Center - Fox Run,Fox Run Meadows Gold Course,18,63,9370,17,17,3,400
+45898,295351,220581,Smugglers Notch Disc Golf Center - Fox Run,Fox Run Meadows Gold Course,18,63,9370,18,18,4,775
+45898,295356,26694,Smugglers Notch Disc Golf Center - Brewster Ridge,Brewster Ridge White Tees,18,61,4775,1,1,3,175
+45898,295356,26694,Smugglers Notch Disc Golf Center - Brewster Ridge,Brewster Ridge White Tees,18,61,4775,2,2,4,360
+45898,295356,26694,Smugglers Notch Disc Golf Center - Brewster Ridge,Brewster Ridge White Tees,18,61,4775,3,3,3,165
+45898,295356,26694,Smugglers Notch Disc Golf Center - Brewster Ridge,Brewster Ridge White Tees,18,61,4775,4,4,4,390
+45898,295356,26694,Smugglers Notch Disc Golf Center - Brewster Ridge,Brewster Ridge White Tees,18,61,4775,5,5,3,245
+45898,295356,26694,Smugglers Notch Disc Golf Center - Brewster Ridge,Brewster Ridge White Tees,18,61,4775,6,6,3,200
+45898,295356,26694,Smugglers Notch Disc Golf Center - Brewster Ridge,Brewster Ridge White Tees,18,61,4775,7,7,4,440
+45898,295356,26694,Smugglers Notch Disc Golf Center - Brewster Ridge,Brewster Ridge White Tees,18,61,4775,8,8,4,350
+45898,295356,26694,Smugglers Notch Disc Golf Center - Brewster Ridge,Brewster Ridge White Tees,18,61,4775,9,9,3,245
+45898,295356,26694,Smugglers Notch Disc Golf Center - Brewster Ridge,Brewster Ridge White Tees,18,61,4775,10,10,3,265
+45898,295356,26694,Smugglers Notch Disc Golf Center - Brewster Ridge,Brewster Ridge White Tees,18,61,4775,11,11,4,350
+45898,295356,26694,Smugglers Notch Disc Golf Center - Brewster Ridge,Brewster Ridge White Tees,18,61,4775,12,12,3,255
+45898,295356,26694,Smugglers Notch Disc Golf Center - Brewster Ridge,Brewster Ridge White Tees,18,61,4775,13,13,4,325
+45898,295356,26694,Smugglers Notch Disc Golf Center - Brewster Ridge,Brewster Ridge White Tees,18,61,4775,14,14,3,160
+45898,295356,26694,Smugglers Notch Disc Golf Center - Brewster Ridge,Brewster Ridge White Tees,18,61,4775,15,15,3,210
+45898,295356,26694,Smugglers Notch Disc Golf Center - Brewster Ridge,Brewster Ridge White Tees,18,61,4775,16,16,3,215
+45898,295356,26694,Smugglers Notch Disc Golf Center - Brewster Ridge,Brewster Ridge White Tees,18,61,4775,17,17,4,235
+45898,295356,26694,Smugglers Notch Disc Golf Center - Brewster Ridge,Brewster Ridge White Tees,18,61,4775,18,18,3,190
+45898,295361,220581,Smugglers Notch Disc Golf Center - Fox Run,Fox Run Meadows White Tees,18,63,5855,1,1,4,325
+45898,295361,220581,Smugglers Notch Disc Golf Center - Fox Run,Fox Run Meadows White Tees,18,63,5855,2,2,3,185
+45898,295361,220581,Smugglers Notch Disc Golf Center - Fox Run,Fox Run Meadows White Tees,18,63,5855,3,3,3,215
+45898,295361,220581,Smugglers Notch Disc Golf Center - Fox Run,Fox Run Meadows White Tees,18,63,5855,4,4,4,410
+45898,295361,220581,Smugglers Notch Disc Golf Center - Fox Run,Fox Run Meadows White Tees,18,63,5855,5,5,3,370
+45898,295361,220581,Smugglers Notch Disc Golf Center - Fox Run,Fox Run Meadows White Tees,18,63,5855,6,6,3,235
+45898,295361,220581,Smugglers Notch Disc Golf Center - Fox Run,Fox Run Meadows White Tees,18,63,5855,7,7,5,680
+45898,295361,220581,Smugglers Notch Disc Golf Center - Fox Run,Fox Run Meadows White Tees,18,63,5855,8,8,4,325
+45898,295361,220581,Smugglers Notch Disc Golf Center - Fox Run,Fox Run Meadows White Tees,18,63,5855,9,9,3,205
+45898,295361,220581,Smugglers Notch Disc Golf Center - Fox Run,Fox Run Meadows White Tees,18,63,5855,10,10,3,240
+45898,295361,220581,Smugglers Notch Disc Golf Center - Fox Run,Fox Run Meadows White Tees,18,63,5855,11,11,4,405
+45898,295361,220581,Smugglers Notch Disc Golf Center - Fox Run,Fox Run Meadows White Tees,18,63,5855,12,12,4,375
+45898,295361,220581,Smugglers Notch Disc Golf Center - Fox Run,Fox Run Meadows White Tees,18,63,5855,13,13,3,190
+45898,295361,220581,Smugglers Notch Disc Golf Center - Fox Run,Fox Run Meadows White Tees,18,63,5855,14,14,3,230
+45898,295361,220581,Smugglers Notch Disc Golf Center - Fox Run,Fox Run Meadows White Tees,18,63,5855,15,15,3,245
+45898,295361,220581,Smugglers Notch Disc Golf Center - Fox Run,Fox Run Meadows White Tees,18,63,5855,16,16,4,525
+45898,295361,220581,Smugglers Notch Disc Golf Center - Fox Run,Fox Run Meadows White Tees,18,63,5855,17,17,3,310
+45898,295361,220581,Smugglers Notch Disc Golf Center - Fox Run,Fox Run Meadows White Tees,18,63,5855,18,18,4,385
+45898,303251,220581,Smugglers Notch Disc Golf Center - Fox Run,Fox Run Meadows Blue Tees Rd1,18,63,8415,1,1,4,600
+45898,303251,220581,Smugglers Notch Disc Golf Center - Fox Run,Fox Run Meadows Blue Tees Rd1,18,63,8415,2,2,3,270
+45898,303251,220581,Smugglers Notch Disc Golf Center - Fox Run,Fox Run Meadows Blue Tees Rd1,18,63,8415,3,3,3,285
+45898,303251,220581,Smugglers Notch Disc Golf Center - Fox Run,Fox Run Meadows Blue Tees Rd1,18,63,8415,4,4,4,465
+45898,303251,220581,Smugglers Notch Disc Golf Center - Fox Run,Fox Run Meadows Blue Tees Rd1,18,63,8415,5,5,3,445
+45898,303251,220581,Smugglers Notch Disc Golf Center - Fox Run,Fox Run Meadows Blue Tees Rd1,18,63,8415,6,6,3,290
+45898,303251,220581,Smugglers Notch Disc Golf Center - Fox Run,Fox Run Meadows Blue Tees Rd1,18,63,8415,7,7,5,1085
+45898,303251,220581,Smugglers Notch Disc Golf Center - Fox Run,Fox Run Meadows Blue Tees Rd1,18,63,8415,8,8,4,550
+45898,303251,220581,Smugglers Notch Disc Golf Center - Fox Run,Fox Run Meadows Blue Tees Rd1,18,63,8415,9,9,3,375
+45898,303251,220581,Smugglers Notch Disc Golf Center - Fox Run,Fox Run Meadows Blue Tees Rd1,18,63,8415,10,10,3,295
+45898,303251,220581,Smugglers Notch Disc Golf Center - Fox Run,Fox Run Meadows Blue Tees Rd1,18,63,8415,11,11,4,500
+45898,303251,220581,Smugglers Notch Disc Golf Center - Fox Run,Fox Run Meadows Blue Tees Rd1,18,63,8415,12,12,4,630
+45898,303251,220581,Smugglers Notch Disc Golf Center - Fox Run,Fox Run Meadows Blue Tees Rd1,18,63,8415,13,13,3,350
+45898,303251,220581,Smugglers Notch Disc Golf Center - Fox Run,Fox Run Meadows Blue Tees Rd1,18,63,8415,14,14,3,305
+45898,303251,220581,Smugglers Notch Disc Golf Center - Fox Run,Fox Run Meadows Blue Tees Rd1,18,63,8415,15,15,3,315
+45898,303251,220581,Smugglers Notch Disc Golf Center - Fox Run,Fox Run Meadows Blue Tees Rd1,18,63,8415,16,16,4,600
+45898,303251,220581,Smugglers Notch Disc Golf Center - Fox Run,Fox Run Meadows Blue Tees Rd1,18,63,8415,17,17,3,400
+45898,303251,220581,Smugglers Notch Disc Golf Center - Fox Run,Fox Run Meadows Blue Tees Rd1,18,63,8415,18,18,4,655
+46036,297331,25603,Center Chains at Hope A. Davey Park,Default Layout,18,54,,1,1,3,
+46036,297331,25603,Center Chains at Hope A. Davey Park,Default Layout,18,54,,2,2,3,
+46036,297331,25603,Center Chains at Hope A. Davey Park,Default Layout,18,54,,3,3,3,
+46036,297331,25603,Center Chains at Hope A. Davey Park,Default Layout,18,54,,4,4,3,
+46036,297331,25603,Center Chains at Hope A. Davey Park,Default Layout,18,54,,5,5,3,
+46036,297331,25603,Center Chains at Hope A. Davey Park,Default Layout,18,54,,6,6,3,
+46036,297331,25603,Center Chains at Hope A. Davey Park,Default Layout,18,54,,7,7,3,
+46036,297331,25603,Center Chains at Hope A. Davey Park,Default Layout,18,54,,8,8,3,
+46036,297331,25603,Center Chains at Hope A. Davey Park,Default Layout,18,54,,9,9,3,
+46036,297331,25603,Center Chains at Hope A. Davey Park,Default Layout,18,54,,10,10,3,
+46036,297331,25603,Center Chains at Hope A. Davey Park,Default Layout,18,54,,11,11,3,
+46036,297331,25603,Center Chains at Hope A. Davey Park,Default Layout,18,54,,12,12,3,
+46036,297331,25603,Center Chains at Hope A. Davey Park,Default Layout,18,54,,13,13,3,
+46036,297331,25603,Center Chains at Hope A. Davey Park,Default Layout,18,54,,14,14,3,
+46036,297331,25603,Center Chains at Hope A. Davey Park,Default Layout,18,54,,15,15,3,
+46036,297331,25603,Center Chains at Hope A. Davey Park,Default Layout,18,54,,16,16,3,
+46036,297331,25603,Center Chains at Hope A. Davey Park,Default Layout,18,54,,17,17,3,
+46036,297331,25603,Center Chains at Hope A. Davey Park,Default Layout,18,54,,18,18,3,
+46036,297346,25603,Center Chains DGC at Hope A. Davey Park,Blue Tees,18,54,2790,1,1,3,354
+46036,297346,25603,Center Chains DGC at Hope A. Davey Park,Blue Tees,18,54,2790,2,2,3,297
+46036,297346,25603,Center Chains DGC at Hope A. Davey Park,Blue Tees,18,54,2790,3,3,3,246
+46036,297346,25603,Center Chains DGC at Hope A. Davey Park,Blue Tees,18,54,2790,4,4,3,333
+46036,297346,25603,Center Chains DGC at Hope A. Davey Park,Blue Tees,18,54,2790,5,5,3,366
+46036,297346,25603,Center Chains DGC at Hope A. Davey Park,Blue Tees,18,54,2790,6,6,3,285
+46036,297346,25603,Center Chains DGC at Hope A. Davey Park,Blue Tees,18,54,2790,7,7,3,246
+46036,297346,25603,Center Chains DGC at Hope A. Davey Park,Blue Tees,18,54,2790,8,8,3,228
+46036,297346,25603,Center Chains DGC at Hope A. Davey Park,Blue Tees,18,54,2790,9,9,3,285
+46036,297346,25603,Center Chains DGC at Hope A. Davey Park,Blue Tees,18,54,2790,10,10,3,150
+46036,297346,25603,Center Chains DGC at Hope A. Davey Park,Blue Tees,18,54,2790,11,11,3,162
+46036,297346,25603,Center Chains DGC at Hope A. Davey Park,Blue Tees,18,54,2790,12,12,3,228
+46036,297346,25603,Center Chains DGC at Hope A. Davey Park,Blue Tees,18,54,2790,13,13,3,258
+46036,297346,25603,Center Chains DGC at Hope A. Davey Park,Blue Tees,18,54,2790,14,14,3,282
+46036,297346,25603,Center Chains DGC at Hope A. Davey Park,Blue Tees,18,54,2790,15,15,3,228
+46036,297346,25603,Center Chains DGC at Hope A. Davey Park,Blue Tees,18,54,2790,16,16,3,300
+46036,297346,25603,Center Chains DGC at Hope A. Davey Park,Blue Tees,18,54,2790,17,17,3,255
+46036,297346,25603,Center Chains DGC at Hope A. Davey Park,Blue Tees,18,54,2790,18,18,3,282
+46036,297351,25603,Center Chains DGC at Hope A. Davey Park,White Tees,18,54,1908,1,1,3,232
+46036,297351,25603,Center Chains DGC at Hope A. Davey Park,White Tees,18,54,1908,2,2,3,219
+46036,297351,25603,Center Chains DGC at Hope A. Davey Park,White Tees,18,54,1908,3,3,3,162
+46036,297351,25603,Center Chains DGC at Hope A. Davey Park,White Tees,18,54,1908,4,4,3,273
+46036,297351,25603,Center Chains DGC at Hope A. Davey Park,White Tees,18,54,1908,5,5,3,228
+46036,297351,25603,Center Chains DGC at Hope A. Davey Park,White Tees,18,54,1908,6,6,3,207
+46036,297351,25603,Center Chains DGC at Hope A. Davey Park,White Tees,18,54,1908,7,7,3,186
+46036,297351,25603,Center Chains DGC at Hope A. Davey Park,White Tees,18,54,1908,8,8,3,228
+46036,297351,25603,Center Chains DGC at Hope A. Davey Park,White Tees,18,54,1908,9,9,3,225
+46036,297351,25603,Center Chains DGC at Hope A. Davey Park,White Tees,18,54,1908,10,10,3,150
+46036,297351,25603,Center Chains DGC at Hope A. Davey Park,White Tees,18,54,1908,11,11,3,162
+46036,297351,25603,Center Chains DGC at Hope A. Davey Park,White Tees,18,54,1908,12,12,3,204
+46036,297351,25603,Center Chains DGC at Hope A. Davey Park,White Tees,18,54,1908,13,13,3,195
+46036,297351,25603,Center Chains DGC at Hope A. Davey Park,White Tees,18,54,1908,14,14,3,207
+46036,297351,25603,Center Chains DGC at Hope A. Davey Park,White Tees,18,54,1908,15,15,3,150
+46036,297351,25603,Center Chains DGC at Hope A. Davey Park,White Tees,18,54,1908,16,16,3,225
+46036,297351,25603,Center Chains DGC at Hope A. Davey Park,White Tees,18,54,1908,17,17,3,231
+46036,297351,25603,Center Chains DGC at Hope A. Davey Park,White Tees,18,54,1908,18,18,3,159
+46247,300491,0,,Default Layout,18,54,,1,1,3,
+46247,300491,0,,Default Layout,18,54,,2,2,3,
+46247,300491,0,,Default Layout,18,54,,3,3,3,
+46247,300491,0,,Default Layout,18,54,,4,4,3,
+46247,300491,0,,Default Layout,18,54,,5,5,3,
+46247,300491,0,,Default Layout,18,54,,6,6,3,
+46247,300491,0,,Default Layout,18,54,,7,7,3,
+46247,300491,0,,Default Layout,18,54,,8,8,3,
+46247,300491,0,,Default Layout,18,54,,9,9,3,
+46247,300491,0,,Default Layout,18,54,,10,10,3,
+46247,300491,0,,Default Layout,18,54,,11,11,3,
+46247,300491,0,,Default Layout,18,54,,12,12,3,
+46247,300491,0,,Default Layout,18,54,,13,13,3,
+46247,300491,0,,Default Layout,18,54,,14,14,3,
+46247,300491,0,,Default Layout,18,54,,15,15,3,
+46247,300491,0,,Default Layout,18,54,,16,16,3,
+46247,300491,0,,Default Layout,18,54,,17,17,3,
+46247,300491,0,,Default Layout,18,54,,18,18,3,
+46247,301671,26412,Black Falls Disc Golf Course,Gold tee-Gold basket,18,57,6102,1,1,3,420
+46247,301671,26412,Black Falls Disc Golf Course,Gold tee-Gold basket,18,57,6102,2,2,3,407
+46247,301671,26412,Black Falls Disc Golf Course,Gold tee-Gold basket,18,57,6102,3,3,4,426
+46247,301671,26412,Black Falls Disc Golf Course,Gold tee-Gold basket,18,57,6102,4,4,4,604
+46247,301671,26412,Black Falls Disc Golf Course,Gold tee-Gold basket,18,57,6102,5,5,3,253
+46247,301671,26412,Black Falls Disc Golf Course,Gold tee-Gold basket,18,57,6102,6,6,3,250
+46247,301671,26412,Black Falls Disc Golf Course,Gold tee-Gold basket,18,57,6102,7,7,4,475
+46247,301671,26412,Black Falls Disc Golf Course,Gold tee-Gold basket,18,57,6102,8,8,3,188
+46247,301671,26412,Black Falls Disc Golf Course,Gold tee-Gold basket,18,57,6102,9,9,3,230
+46247,301671,26412,Black Falls Disc Golf Course,Gold tee-Gold basket,18,57,6102,10,10,3,460
+46247,301671,26412,Black Falls Disc Golf Course,Gold tee-Gold basket,18,57,6102,11,11,3,253
+46247,301671,26412,Black Falls Disc Golf Course,Gold tee-Gold basket,18,57,6102,12,12,3,275
+46247,301671,26412,Black Falls Disc Golf Course,Gold tee-Gold basket,18,57,6102,13,13,3,350
+46247,301671,26412,Black Falls Disc Golf Course,Gold tee-Gold basket,18,57,6102,14,14,3,225
+46247,301671,26412,Black Falls Disc Golf Course,Gold tee-Gold basket,18,57,6102,15,15,3,290
+46247,301671,26412,Black Falls Disc Golf Course,Gold tee-Gold basket,18,57,6102,16,16,3,280
+46247,301671,26412,Black Falls Disc Golf Course,Gold tee-Gold basket,18,57,6102,17,17,3,320
+46247,301671,26412,Black Falls Disc Golf Course,Gold tee-Gold basket,18,57,6102,18,18,3,396
+46247,301676,26412,Black Falls Disc Golf Course,Silver tee-Silver basket,18,54,3805,1,1,3,325
+46247,301676,26412,Black Falls Disc Golf Course,Silver tee-Silver basket,18,54,3805,2,2,3,245
+46247,301676,26412,Black Falls Disc Golf Course,Silver tee-Silver basket,18,54,3805,3,3,3,234
+46247,301676,26412,Black Falls Disc Golf Course,Silver tee-Silver basket,18,54,3805,4,4,3,183
+46247,301676,26412,Black Falls Disc Golf Course,Silver tee-Silver basket,18,54,3805,5,5,3,201
+46247,301676,26412,Black Falls Disc Golf Course,Silver tee-Silver basket,18,54,3805,6,6,3,173
+46247,301676,26412,Black Falls Disc Golf Course,Silver tee-Silver basket,18,54,3805,7,7,3,244
+46247,301676,26412,Black Falls Disc Golf Course,Silver tee-Silver basket,18,54,3805,8,8,3,171
+46247,301676,26412,Black Falls Disc Golf Course,Silver tee-Silver basket,18,54,3805,9,9,3,130
+46247,301676,26412,Black Falls Disc Golf Course,Silver tee-Silver basket,18,54,3805,10,10,3,300
+46247,301676,26412,Black Falls Disc Golf Course,Silver tee-Silver basket,18,54,3805,11,11,3,180
+46247,301676,26412,Black Falls Disc Golf Course,Silver tee-Silver basket,18,54,3805,12,12,3,180
+46247,301676,26412,Black Falls Disc Golf Course,Silver tee-Silver basket,18,54,3805,13,13,3,170
+46247,301676,26412,Black Falls Disc Golf Course,Silver tee-Silver basket,18,54,3805,14,14,3,170
+46247,301676,26412,Black Falls Disc Golf Course,Silver tee-Silver basket,18,54,3805,15,15,3,190
+46247,301676,26412,Black Falls Disc Golf Course,Silver tee-Silver basket,18,54,3805,16,16,3,189
+46247,301676,26412,Black Falls Disc Golf Course,Silver tee-Silver basket,18,54,3805,17,17,3,235
+46247,301676,26412,Black Falls Disc Golf Course,Silver tee-Silver basket,18,54,3805,18,18,3,285
+46474,303861,25746,White River Disc Golf Course,Default Layout,18,54,3717,1,1,3,186
+46474,303861,25746,White River Disc Golf Course,Default Layout,18,54,3717,2,2,3,185
+46474,303861,25746,White River Disc Golf Course,Default Layout,18,54,3717,3,3,3,300
+46474,303861,25746,White River Disc Golf Course,Default Layout,18,54,3717,4,4,3,157
+46474,303861,25746,White River Disc Golf Course,Default Layout,18,54,3717,5,5,3,191
+46474,303861,25746,White River Disc Golf Course,Default Layout,18,54,3717,6,6,3,297
+46474,303861,25746,White River Disc Golf Course,Default Layout,18,54,3717,7,7,3,159
+46474,303861,25746,White River Disc Golf Course,Default Layout,18,54,3717,8,8,3,225
+46474,303861,25746,White River Disc Golf Course,Default Layout,18,54,3717,9,9,3,276
+46474,303861,25746,White River Disc Golf Course,Default Layout,18,54,3717,10,10,3,228
+46474,303861,25746,White River Disc Golf Course,Default Layout,18,54,3717,11,11,3,126
+46474,303861,25746,White River Disc Golf Course,Default Layout,18,54,3717,12,12,3,178
+46474,303861,25746,White River Disc Golf Course,Default Layout,18,54,3717,13,13,3,182
+46474,303861,25746,White River Disc Golf Course,Default Layout,18,54,3717,14,14,3,170
+46474,303861,25746,White River Disc Golf Course,Default Layout,18,54,3717,15,15,3,156
+46474,303861,25746,White River Disc Golf Course,Default Layout,18,54,3717,16,16,3,126
+46474,303861,25746,White River Disc Golf Course,Default Layout,18,54,3717,17,17,3,294
+46474,303861,25746,White River Disc Golf Course,Default Layout,18,54,3717,18,18,3,281
+46697,307121,273131,North Calais Disc Golf Course,Gold Tees,18,64,7813,1,1,3,473
+46697,307121,273131,North Calais Disc Golf Course,Gold Tees,18,64,7813,2,2,4,427
+46697,307121,273131,North Calais Disc Golf Course,Gold Tees,18,64,7813,3,3,4,489
+46697,307121,273131,North Calais Disc Golf Course,Gold Tees,18,64,7813,4,4,5,962
+46697,307121,273131,North Calais Disc Golf Course,Gold Tees,18,64,7813,5,5,3,319
+46697,307121,273131,North Calais Disc Golf Course,Gold Tees,18,64,7813,6,6,3,397
+46697,307121,273131,North Calais Disc Golf Course,Gold Tees,18,64,7813,7,7,3,255
+46697,307121,273131,North Calais Disc Golf Course,Gold Tees,18,64,7813,8,8,3,246
+46697,307121,273131,North Calais Disc Golf Course,Gold Tees,18,64,7813,9,9,4,511
+46697,307121,273131,North Calais Disc Golf Course,Gold Tees,18,64,7813,10,10,5,675
+46697,307121,273131,North Calais Disc Golf Course,Gold Tees,18,64,7813,11,11,4,564
+46697,307121,273131,North Calais Disc Golf Course,Gold Tees,18,64,7813,12,12,3,359
+46697,307121,273131,North Calais Disc Golf Course,Gold Tees,18,64,7813,13,13,3,268
+46697,307121,273131,North Calais Disc Golf Course,Gold Tees,18,64,7813,14,14,4,604
+46697,307121,273131,North Calais Disc Golf Course,Gold Tees,18,64,7813,15,15,3,221
+46697,307121,273131,North Calais Disc Golf Course,Gold Tees,18,64,7813,16,16,3,250
+46697,307121,273131,North Calais Disc Golf Course,Gold Tees,18,64,7813,17,17,3,311
+46697,307121,273131,North Calais Disc Golf Course,Gold Tees,18,64,7813,18,18,4,482
+46697,308646,273131,North Calais Disc Golf Course,Blue Tees,18,64,6789,1,1,3,406
+46697,308646,273131,North Calais Disc Golf Course,Blue Tees,18,64,6789,2,2,4,362
+46697,308646,273131,North Calais Disc Golf Course,Blue Tees,18,64,6789,3,3,4,447
+46697,308646,273131,North Calais Disc Golf Course,Blue Tees,18,64,6789,4,4,5,795
+46697,308646,273131,North Calais Disc Golf Course,Blue Tees,18,64,6789,5,5,3,261
+46697,308646,273131,North Calais Disc Golf Course,Blue Tees,18,64,6789,6,6,3,350
+46697,308646,273131,North Calais Disc Golf Course,Blue Tees,18,64,6789,7,7,3,255
+46697,308646,273131,North Calais Disc Golf Course,Blue Tees,18,64,6789,8,8,3,186
+46697,308646,273131,North Calais Disc Golf Course,Blue Tees,18,64,6789,9,9,4,433
+46697,308646,273131,North Calais Disc Golf Course,Blue Tees,18,64,6789,10,10,5,607
+46697,308646,273131,North Calais Disc Golf Course,Blue Tees,18,64,6789,11,11,4,508
+46697,308646,273131,North Calais Disc Golf Course,Blue Tees,18,64,6789,12,12,3,311
+46697,308646,273131,North Calais Disc Golf Course,Blue Tees,18,64,6789,13,13,3,268
+46697,308646,273131,North Calais Disc Golf Course,Blue Tees,18,64,6789,14,14,4,479
+46697,308646,273131,North Calais Disc Golf Course,Blue Tees,18,64,6789,15,15,3,221
+46697,308646,273131,North Calais Disc Golf Course,Blue Tees,18,64,6789,16,16,3,205
+46697,308646,273131,North Calais Disc Golf Course,Blue Tees,18,64,6789,17,17,3,261
+46697,308646,273131,North Calais Disc Golf Course,Blue Tees,18,64,6789,18,18,4,434
+46697,308656,273131,North Calais Disc Golf Course,White Tees,18,64,5452,1,1,3,275
+46697,308656,273131,North Calais Disc Golf Course,White Tees,18,64,5452,2,2,4,309
+46697,308656,273131,North Calais Disc Golf Course,White Tees,18,64,5452,3,3,4,326
+46697,308656,273131,North Calais Disc Golf Course,White Tees,18,64,5452,4,4,5,643
+46697,308656,273131,North Calais Disc Golf Course,White Tees,18,64,5452,5,5,3,189
+46697,308656,273131,North Calais Disc Golf Course,White Tees,18,64,5452,6,6,3,294
+46697,308656,273131,North Calais Disc Golf Course,White Tees,18,64,5452,7,7,3,216
+46697,308656,273131,North Calais Disc Golf Course,White Tees,18,64,5452,8,8,3,186
+46697,308656,273131,North Calais Disc Golf Course,White Tees,18,64,5452,9,9,4,345
+46697,308656,273131,North Calais Disc Golf Course,White Tees,18,64,5452,10,10,5,472
+46697,308656,273131,North Calais Disc Golf Course,White Tees,18,64,5452,11,11,4,404
+46697,308656,273131,North Calais Disc Golf Course,White Tees,18,64,5452,12,12,3,243
+46697,308656,273131,North Calais Disc Golf Course,White Tees,18,64,5452,13,13,3,203
+46697,308656,273131,North Calais Disc Golf Course,White Tees,18,64,5452,14,14,4,392
+46697,308656,273131,North Calais Disc Golf Course,White Tees,18,64,5452,15,15,3,221
+46697,308656,273131,North Calais Disc Golf Course,White Tees,18,64,5452,16,16,3,180
+46697,308656,273131,North Calais Disc Golf Course,White Tees,18,64,5452,17,17,3,229
+46697,308656,273131,North Calais Disc Golf Course,White Tees,18,64,5452,18,18,4,325
+46697,308661,273131,North Calais,Red Tees,18,64,4052,1,1,3,201
+46697,308661,273131,North Calais,Red Tees,18,64,4052,2,2,4,222
+46697,308661,273131,North Calais,Red Tees,18,64,4052,3,3,4,270
+46697,308661,273131,North Calais,Red Tees,18,64,4052,4,4,5,445
+46697,308661,273131,North Calais,Red Tees,18,64,4052,5,5,3,131
+46697,308661,273131,North Calais,Red Tees,18,64,4052,6,6,3,167
+46697,308661,273131,North Calais,Red Tees,18,64,4052,7,7,3,162
+46697,308661,273131,North Calais,Red Tees,18,64,4052,8,8,3,130
+46697,308661,273131,North Calais,Red Tees,18,64,4052,9,9,4,280
+46697,308661,273131,North Calais,Red Tees,18,64,4052,10,10,5,337
+46697,308661,273131,North Calais,Red Tees,18,64,4052,11,11,4,282
+46697,308661,273131,North Calais,Red Tees,18,64,4052,12,12,3,192
+46697,308661,273131,North Calais,Red Tees,18,64,4052,13,13,3,154
+46697,308661,273131,North Calais,Red Tees,18,64,4052,14,14,4,300
+46697,308661,273131,North Calais,Red Tees,18,64,4052,15,15,3,176
+46697,308661,273131,North Calais,Red Tees,18,64,4052,16,16,3,150
+46697,308661,273131,North Calais,Red Tees,18,64,4052,17,17,3,190
+46697,308661,273131,North Calais,Red Tees,18,64,4052,18,18,4,263
+46877,310696,0,,Default Layout,18,54,,1,1,3,
+46877,310696,0,,Default Layout,18,54,,2,2,3,
+46877,310696,0,,Default Layout,18,54,,3,3,3,
+46877,310696,0,,Default Layout,18,54,,4,4,3,
+46877,310696,0,,Default Layout,18,54,,5,5,3,
+46877,310696,0,,Default Layout,18,54,,6,6,3,
+46877,310696,0,,Default Layout,18,54,,7,7,3,
+46877,310696,0,,Default Layout,18,54,,8,8,3,
+46877,310696,0,,Default Layout,18,54,,9,9,3,
+46877,310696,0,,Default Layout,18,54,,10,10,3,
+46877,310696,0,,Default Layout,18,54,,11,11,3,
+46877,310696,0,,Default Layout,18,54,,12,12,3,
+46877,310696,0,,Default Layout,18,54,,13,13,3,
+46877,310696,0,,Default Layout,18,54,,14,14,3,
+46877,310696,0,,Default Layout,18,54,,15,15,3,
+46877,310696,0,,Default Layout,18,54,,16,16,3,
+46877,310696,0,,Default Layout,18,54,,17,17,3,
+46877,310696,0,,Default Layout,18,54,,18,18,3,
+46877,312466,30191,Wrightsville Beach,Blue tee,18,58,4388,1,1,4,
+46877,312466,30191,Wrightsville Beach,Blue tee,18,58,4388,2,2,4,
+46877,312466,30191,Wrightsville Beach,Blue tee,18,58,4388,3,3,3,
+46877,312466,30191,Wrightsville Beach,Blue tee,18,58,4388,4,4,3,
+46877,312466,30191,Wrightsville Beach,Blue tee,18,58,4388,5,5,3,
+46877,312466,30191,Wrightsville Beach,Blue tee,18,58,4388,6,6,4,
+46877,312466,30191,Wrightsville Beach,Blue tee,18,58,4388,7,7,3,
+46877,312466,30191,Wrightsville Beach,Blue tee,18,58,4388,8,8,3,
+46877,312466,30191,Wrightsville Beach,Blue tee,18,58,4388,9,9,3,
+46877,312466,30191,Wrightsville Beach,Blue tee,18,58,4388,10,10,3,
+46877,312466,30191,Wrightsville Beach,Blue tee,18,58,4388,11,11,3,
+46877,312466,30191,Wrightsville Beach,Blue tee,18,58,4388,12,12,3,
+46877,312466,30191,Wrightsville Beach,Blue tee,18,58,4388,13,13,3,
+46877,312466,30191,Wrightsville Beach,Blue tee,18,58,4388,14,14,3,
+46877,312466,30191,Wrightsville Beach,Blue tee,18,58,4388,15,15,4,
+46877,312466,30191,Wrightsville Beach,Blue tee,18,58,4388,16,16,3,
+46877,312466,30191,Wrightsville Beach,Blue tee,18,58,4388,17,17,3,
+46877,312466,30191,Wrightsville Beach,Blue tee,18,58,4388,18,18,3,
+46877,312471,30191,Wrightsville Beach,Gold Tee,18,58,5025,1,1,4,
+46877,312471,30191,Wrightsville Beach,Gold Tee,18,58,5025,2,2,4,
+46877,312471,30191,Wrightsville Beach,Gold Tee,18,58,5025,3,3,3,
+46877,312471,30191,Wrightsville Beach,Gold Tee,18,58,5025,4,4,3,
+46877,312471,30191,Wrightsville Beach,Gold Tee,18,58,5025,5,5,3,
+46877,312471,30191,Wrightsville Beach,Gold Tee,18,58,5025,6,6,4,
+46877,312471,30191,Wrightsville Beach,Gold Tee,18,58,5025,7,7,3,
+46877,312471,30191,Wrightsville Beach,Gold Tee,18,58,5025,8,8,3,
+46877,312471,30191,Wrightsville Beach,Gold Tee,18,58,5025,9,9,3,
+46877,312471,30191,Wrightsville Beach,Gold Tee,18,58,5025,10,10,3,
+46877,312471,30191,Wrightsville Beach,Gold Tee,18,58,5025,11,11,3,
+46877,312471,30191,Wrightsville Beach,Gold Tee,18,58,5025,12,12,3,
+46877,312471,30191,Wrightsville Beach,Gold Tee,18,58,5025,13,13,3,
+46877,312471,30191,Wrightsville Beach,Gold Tee,18,58,5025,14,14,3,
+46877,312471,30191,Wrightsville Beach,Gold Tee,18,58,5025,15,15,4,
+46877,312471,30191,Wrightsville Beach,Gold Tee,18,58,5025,16,16,3,
+46877,312471,30191,Wrightsville Beach,Gold Tee,18,58,5025,17,17,3,
+46877,312471,30191,Wrightsville Beach,Gold Tee,18,58,5025,18,18,3,
+46877,312476,30191,Wrightsville Beach,White tee,18,58,3367,1,1,4,
+46877,312476,30191,Wrightsville Beach,White tee,18,58,3367,2,2,4,
+46877,312476,30191,Wrightsville Beach,White tee,18,58,3367,3,3,3,
+46877,312476,30191,Wrightsville Beach,White tee,18,58,3367,4,4,3,
+46877,312476,30191,Wrightsville Beach,White tee,18,58,3367,5,5,3,
+46877,312476,30191,Wrightsville Beach,White tee,18,58,3367,6,6,4,
+46877,312476,30191,Wrightsville Beach,White tee,18,58,3367,7,7,3,
+46877,312476,30191,Wrightsville Beach,White tee,18,58,3367,8,8,3,
+46877,312476,30191,Wrightsville Beach,White tee,18,58,3367,9,9,3,
+46877,312476,30191,Wrightsville Beach,White tee,18,58,3367,10,10,3,
+46877,312476,30191,Wrightsville Beach,White tee,18,58,3367,11,11,3,
+46877,312476,30191,Wrightsville Beach,White tee,18,58,3367,12,12,3,
+46877,312476,30191,Wrightsville Beach,White tee,18,58,3367,13,13,3,
+46877,312476,30191,Wrightsville Beach,White tee,18,58,3367,14,14,3,
+46877,312476,30191,Wrightsville Beach,White tee,18,58,3367,15,15,4,
+46877,312476,30191,Wrightsville Beach,White tee,18,58,3367,16,16,3,
+46877,312476,30191,Wrightsville Beach,White tee,18,58,3367,17,17,3,
+46877,312476,30191,Wrightsville Beach,White tee,18,58,3367,18,18,3,
+47319,318956,0,,Default Layout,18,54,,1,1,3,
+47319,318956,0,,Default Layout,18,54,,2,2,3,
+47319,318956,0,,Default Layout,18,54,,3,3,3,
+47319,318956,0,,Default Layout,18,54,,4,4,3,
+47319,318956,0,,Default Layout,18,54,,5,5,3,
+47319,318956,0,,Default Layout,18,54,,6,6,3,
+47319,318956,0,,Default Layout,18,54,,7,7,3,
+47319,318956,0,,Default Layout,18,54,,8,8,3,
+47319,318956,0,,Default Layout,18,54,,9,9,3,
+47319,318956,0,,Default Layout,18,54,,10,10,3,
+47319,318956,0,,Default Layout,18,54,,11,11,3,
+47319,318956,0,,Default Layout,18,54,,12,12,3,
+47319,318956,0,,Default Layout,18,54,,13,13,3,
+47319,318956,0,,Default Layout,18,54,,14,14,3,
+47319,318956,0,,Default Layout,18,54,,15,15,3,
+47319,318956,0,,Default Layout,18,54,,16,16,3,
+47319,318956,0,,Default Layout,18,54,,17,17,3,
+47319,318956,0,,Default Layout,18,54,,18,18,3,
+47319,321646,226456,Chester Disc Golf Course,Black,18,59,5971,1,1,3,375
+47319,321646,226456,Chester Disc Golf Course,Black,18,59,5971,2,2,3,307
+47319,321646,226456,Chester Disc Golf Course,Black,18,59,5971,3,3,3,223
+47319,321646,226456,Chester Disc Golf Course,Black,18,59,5971,4,4,3,315
+47319,321646,226456,Chester Disc Golf Course,Black,18,59,5971,5,5,3,258
+47319,321646,226456,Chester Disc Golf Course,Black,18,59,5971,6,6,3,360
+47319,321646,226456,Chester Disc Golf Course,Black,18,59,5971,7,7,3,280
+47319,321646,226456,Chester Disc Golf Course,Black,18,59,5971,8,8,3,275
+47319,321646,226456,Chester Disc Golf Course,Black,18,59,5971,9,9,3,268
+47319,321646,226456,Chester Disc Golf Course,Black,18,59,5971,10,10,4,646
+47319,321646,226456,Chester Disc Golf Course,Black,18,59,5971,11,11,3,241
+47319,321646,226456,Chester Disc Golf Course,Black,18,59,5971,12,12,3,262
+47319,321646,226456,Chester Disc Golf Course,Black,18,59,5971,13,13,4,365
+47319,321646,226456,Chester Disc Golf Course,Black,18,59,5971,14,14,4,376
+47319,321646,226456,Chester Disc Golf Course,Black,18,59,5971,15,15,3,277
+47319,321646,226456,Chester Disc Golf Course,Black,18,59,5971,16,16,3,318
+47319,321646,226456,Chester Disc Golf Course,Black,18,59,5971,17,17,4,379
+47319,321646,226456,Chester Disc Golf Course,Black,18,59,5971,18,18,4,446
+47319,321651,226456,Chester Disc Golf Course,Green,18,54,3690,1,1,3,185
+47319,321651,226456,Chester Disc Golf Course,Green,18,54,3690,2,2,3,183
+47319,321651,226456,Chester Disc Golf Course,Green,18,54,3690,3,3,3,168
+47319,321651,226456,Chester Disc Golf Course,Green,18,54,3690,4,4,3,197
+47319,321651,226456,Chester Disc Golf Course,Green,18,54,3690,5,5,3,184
+47319,321651,226456,Chester Disc Golf Course,Green,18,54,3690,6,6,3,292
+47319,321651,226456,Chester Disc Golf Course,Green,18,54,3690,7,7,3,122
+47319,321651,226456,Chester Disc Golf Course,Green,18,54,3690,8,8,3,198
+47319,321651,226456,Chester Disc Golf Course,Green,18,54,3690,9,9,3,125
+47319,321651,226456,Chester Disc Golf Course,Green,18,54,3690,10,10,3,131
+47319,321651,226456,Chester Disc Golf Course,Green,18,54,3690,11,11,3,190
+47319,321651,226456,Chester Disc Golf Course,Green,18,54,3690,12,12,3,165
+47319,321651,226456,Chester Disc Golf Course,Green,18,54,3690,13,13,3,265
+47319,321651,226456,Chester Disc Golf Course,Green,18,54,3690,14,14,3,250
+47319,321651,226456,Chester Disc Golf Course,Green,18,54,3690,15,15,3,220
+47319,321651,226456,Chester Disc Golf Course,Green,18,54,3690,16,16,3,220
+47319,321651,226456,Chester Disc Golf Course,Green,18,54,3690,17,17,3,265
+47319,321651,226456,Chester Disc Golf Course,Green,18,54,3690,18,18,3,330
+47320,320551,0,,Default Layout,18,54,,1,1,3,
+47320,320551,0,,Default Layout,18,54,,2,2,3,
+47320,320551,0,,Default Layout,18,54,,3,3,3,
+47320,320551,0,,Default Layout,18,54,,4,4,3,
+47320,320551,0,,Default Layout,18,54,,5,5,3,
+47320,320551,0,,Default Layout,18,54,,6,6,3,
+47320,320551,0,,Default Layout,18,54,,7,7,3,
+47320,320551,0,,Default Layout,18,54,,8,8,3,
+47320,320551,0,,Default Layout,18,54,,9,9,3,
+47320,320551,0,,Default Layout,18,54,,10,10,3,
+47320,320551,0,,Default Layout,18,54,,11,11,3,
+47320,320551,0,,Default Layout,18,54,,12,12,3,
+47320,320551,0,,Default Layout,18,54,,13,13,3,
+47320,320551,0,,Default Layout,18,54,,14,14,3,
+47320,320551,0,,Default Layout,18,54,,15,15,3,
+47320,320551,0,,Default Layout,18,54,,16,16,3,
+47320,320551,0,,Default Layout,18,54,,17,17,3,
+47320,320551,0,,Default Layout,18,54,,18,18,3,
+47320,322996,234931,Vista Beast Disc Golf Course,Gold,18,60,5590,1,1,3,350
+47320,322996,234931,Vista Beast Disc Golf Course,Gold,18,60,5590,2,2,4,385
+47320,322996,234931,Vista Beast Disc Golf Course,Gold,18,60,5590,3,3,4,365
+47320,322996,234931,Vista Beast Disc Golf Course,Gold,18,60,5590,4,4,3,270
+47320,322996,234931,Vista Beast Disc Golf Course,Gold,18,60,5590,5,5,3,125
+47320,322996,234931,Vista Beast Disc Golf Course,Gold,18,60,5590,6,6,3,210
+47320,322996,234931,Vista Beast Disc Golf Course,Gold,18,60,5590,7,7,4,505
+47320,322996,234931,Vista Beast Disc Golf Course,Gold,18,60,5590,8,8,3,220
+47320,322996,234931,Vista Beast Disc Golf Course,Gold,18,60,5590,9,9,3,325
+47320,322996,234931,Vista Beast Disc Golf Course,Gold,18,60,5590,10,10,3,280
+47320,322996,234931,Vista Beast Disc Golf Course,Gold,18,60,5590,11,11,3,235
+47320,322996,234931,Vista Beast Disc Golf Course,Gold,18,60,5590,12,12,4,410
+47320,322996,234931,Vista Beast Disc Golf Course,Gold,18,60,5590,13,13,3,215
+47320,322996,234931,Vista Beast Disc Golf Course,Gold,18,60,5590,14,14,3,185
+47320,322996,234931,Vista Beast Disc Golf Course,Gold,18,60,5590,15,15,3,275
+47320,322996,234931,Vista Beast Disc Golf Course,Gold,18,60,5590,16,16,4,430
+47320,322996,234931,Vista Beast Disc Golf Course,Gold,18,60,5590,17,17,4,520
+47320,322996,234931,Vista Beast Disc Golf Course,Gold,18,60,5590,18,18,3,285
+47320,323001,234931,Vista Beast Disc Golf Course,Blue,18,60,5220,1,1,3,300
+47320,323001,234931,Vista Beast Disc Golf Course,Blue,18,60,5220,2,2,4,340
+47320,323001,234931,Vista Beast Disc Golf Course,Blue,18,60,5220,3,3,4,365
+47320,323001,234931,Vista Beast Disc Golf Course,Blue,18,60,5220,4,4,3,240
+47320,323001,234931,Vista Beast Disc Golf Course,Blue,18,60,5220,5,5,3,125
+47320,323001,234931,Vista Beast Disc Golf Course,Blue,18,60,5220,6,6,3,210
+47320,323001,234931,Vista Beast Disc Golf Course,Blue,18,60,5220,7,7,4,465
+47320,323001,234931,Vista Beast Disc Golf Course,Blue,18,60,5220,8,8,3,190
+47320,323001,234931,Vista Beast Disc Golf Course,Blue,18,60,5220,9,9,3,305
+47320,323001,234931,Vista Beast Disc Golf Course,Blue,18,60,5220,10,10,3,250
+47320,323001,234931,Vista Beast Disc Golf Course,Blue,18,60,5220,11,11,3,235
+47320,323001,234931,Vista Beast Disc Golf Course,Blue,18,60,5220,12,12,4,410
+47320,323001,234931,Vista Beast Disc Golf Course,Blue,18,60,5220,13,13,3,215
+47320,323001,234931,Vista Beast Disc Golf Course,Blue,18,60,5220,14,14,3,185
+47320,323001,234931,Vista Beast Disc Golf Course,Blue,18,60,5220,15,15,3,225
+47320,323001,234931,Vista Beast Disc Golf Course,Blue,18,60,5220,16,16,4,430
+47320,323001,234931,Vista Beast Disc Golf Course,Blue,18,60,5220,17,17,4,465
+47320,323001,234931,Vista Beast Disc Golf Course,Blue,18,60,5220,18,18,3,265
+47320,323006,234931,Vista Beast,White,18,62,4181,1,1,3,
+47320,323006,234931,Vista Beast,White,18,62,4181,2,2,4,
+47320,323006,234931,Vista Beast,White,18,62,4181,3,3,4,
+47320,323006,234931,Vista Beast,White,18,62,4181,4,4,3,
+47320,323006,234931,Vista Beast,White,18,62,4181,5,5,3,
+47320,323006,234931,Vista Beast,White,18,62,4181,6,6,4,
+47320,323006,234931,Vista Beast,White,18,62,4181,7,7,3,
+47320,323006,234931,Vista Beast,White,18,62,4181,8,8,3,
+47320,323006,234931,Vista Beast,White,18,62,4181,9,9,3,
+47320,323006,234931,Vista Beast,White,18,62,4181,10,10,3,
+47320,323006,234931,Vista Beast,White,18,62,4181,11,11,4,
+47320,323006,234931,Vista Beast,White,18,62,4181,12,12,3,
+47320,323006,234931,Vista Beast,White,18,62,4181,13,13,3,
+47320,323006,234931,Vista Beast,White,18,62,4181,14,14,3,
+47320,323006,234931,Vista Beast,White,18,62,4181,15,15,4,
+47320,323006,234931,Vista Beast,White,18,62,4181,16,16,4,
+47320,323006,234931,Vista Beast,White,18,62,4181,17,17,5,
+47320,323006,234931,Vista Beast,White,18,62,4181,18,18,3,
+47321,323996,0,,Default Layout,18,54,,1,1,3,
+47321,323996,0,,Default Layout,18,54,,2,2,3,
+47321,323996,0,,Default Layout,18,54,,3,3,3,
+47321,323996,0,,Default Layout,18,54,,4,4,3,
+47321,323996,0,,Default Layout,18,54,,5,5,3,
+47321,323996,0,,Default Layout,18,54,,6,6,3,
+47321,323996,0,,Default Layout,18,54,,7,7,3,
+47321,323996,0,,Default Layout,18,54,,8,8,3,
+47321,323996,0,,Default Layout,18,54,,9,9,3,
+47321,323996,0,,Default Layout,18,54,,10,10,3,
+47321,323996,0,,Default Layout,18,54,,11,11,3,
+47321,323996,0,,Default Layout,18,54,,12,12,3,
+47321,323996,0,,Default Layout,18,54,,13,13,3,
+47321,323996,0,,Default Layout,18,54,,14,14,3,
+47321,323996,0,,Default Layout,18,54,,15,15,3,
+47321,323996,0,,Default Layout,18,54,,16,16,3,
+47321,323996,0,,Default Layout,18,54,,17,17,3,
+47321,323996,0,,Default Layout,18,54,,18,18,3,
+47321,325901,27746,Base Camp Outfitters Disc Golf,Default Layout,18,56,5674,1,1,3,506
+47321,325901,27746,Base Camp Outfitters Disc Golf,Default Layout,18,56,5674,2,2,3,329
+47321,325901,27746,Base Camp Outfitters Disc Golf,Default Layout,18,56,5674,3,3,3,437
+47321,325901,27746,Base Camp Outfitters Disc Golf,Default Layout,18,56,5674,4,4,3,274
+47321,325901,27746,Base Camp Outfitters Disc Golf,Default Layout,18,56,5674,5,5,3,230
+47321,325901,27746,Base Camp Outfitters Disc Golf,Default Layout,18,56,5674,6,6,3,212
+47321,325901,27746,Base Camp Outfitters Disc Golf,Default Layout,18,56,5674,7,7,4,313
+47321,325901,27746,Base Camp Outfitters Disc Golf,Default Layout,18,56,5674,8,8,3,358
+47321,325901,27746,Base Camp Outfitters Disc Golf,Default Layout,18,56,5674,9,9,3,316
+47321,325901,27746,Base Camp Outfitters Disc Golf,Default Layout,18,56,5674,10,10,3,317
+47321,325901,27746,Base Camp Outfitters Disc Golf,Default Layout,18,56,5674,11,11,4,457
+47321,325901,27746,Base Camp Outfitters Disc Golf,Default Layout,18,56,5674,12,12,3,327
+47321,325901,27746,Base Camp Outfitters Disc Golf,Default Layout,18,56,5674,13,13,3,226
+47321,325901,27746,Base Camp Outfitters Disc Golf,Default Layout,18,56,5674,14,14,3,320
+47321,325901,27746,Base Camp Outfitters Disc Golf,Default Layout,18,56,5674,15,15,3,276
+47321,325901,27746,Base Camp Outfitters Disc Golf,Default Layout,18,56,5674,16,16,3,277
+47321,325901,27746,Base Camp Outfitters Disc Golf,Default Layout,18,56,5674,17,17,3,302
+47321,325901,27746,Base Camp Outfitters Disc Golf,Default Layout,18,56,5674,18,18,3,197
