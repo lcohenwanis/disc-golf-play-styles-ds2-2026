@@ -1,0 +1,16 @@
+event_id,name,year,start_date,end_date,tier,location,scoring_format,n_rounds,n_divisions,n_layouts,n_players,n_player_rounds,n_rounds_with_holes,n_rounds_usable,n_unfinished_999,share_usable,has_hole_scores,is_final
+57217,DGVTour Opener - South Shire Open,2022,2022-04-23,2022-04-24,C,"Bennington, Vermont",S,2,12,2,151,302,301,301,1,0.997,True,True
+57218,DGVTour #2 - Hometown Huck,2022,2022-05-07,2022-05-07,C,"Brattleboro, Vermont",S,2,10,2,89,178,178,178,0,1.0,True,True
+57219,DGVTour #3 - Quarries Throwdown,2022,2022-05-21,2022-05-22,C,"Websterville, Vermont",S,2,14,2,163,326,321,321,2,0.985,True,True
+57221,DGVTour #4 - 20th Annual Sap Bucket Open,2022,2022-06-04,2022-06-05,C,"Waterbury Center, Vermont",S,2,13,2,181,362,355,355,2,0.981,True,True
+55101,Brewster Ridge Open Driven by Innova,2022,2022-06-17,2022-06-19,A,"Jeffersonville, Vermont",S,3,15,12,319,957,947,947,6,0.99,True,True
+57225,DGVTour #6 - Gnomes Challenge,2022,2022-07-02,2022-07-03,C,"Randolph, Vermont",S,2,12,1,103,206,206,206,0,1.0,True,True
+57226,DGVTour #7 - Black Falls Open,2022,2022-07-16,2022-07-17,C,"Montgomery, Vermont",S,2,13,3,140,280,278,277,0,0.989,True,True
+57228,DGVTour #8 - Lincoln Peak Open,2022,2022-07-30,2022-07-31,C,"Warren, Vermont",S,2,8,1,72,144,143,143,1,0.993,True,True
+57229,DGVTour #9 - 30th Annual North Calais Open,2022,2022-08-13,2022-08-14,C,"North Calais, Vermont",S,2,15,4,132,264,258,258,2,0.977,True,True
+57230,DGVTour #10 - Magic Mountain Open,2022,2022-08-27,2022-08-28,C,"Londonderry, Vermont",S,2,11,1,90,180,178,178,2,0.989,True,True
+62737,DGVTour #11 Jay Peak Open,2022,2022-09-10,2022-09-10,C,"Jay, Vermont",S,2,6,1,53,106,106,106,0,1.0,True,True
+57231,DGVTour #11 - Vista Beast Challenge,2022,2022-09-10,2022-09-11,C,"Bolton, Vermont",S,3,0,0,0,0,0,0,0,0,False,True
+57232,DGVTour #12 - The Hills Are Alive,2022,2022-09-24,2022-09-24,C,"Stowe, Vermont",S,2,13,1,87,174,173,173,1,0.994,True,True
+57233,DGVTour #13 - Cold Hollow Classic,2022,2022-10-01,2022-10-02,C,"Enosburg, Vermont",S,2,11,2,134,268,266,266,0,0.993,True,True
+57234,DGVTour Finals - Vermont State Championship,2022,2022-10-15,2022-10-16,C,"Jeffersonville, Vermont",S,2,11,6,141,282,281,281,1,0.996,True,True
