@@ -1,0 +1,13 @@
+event_id,name,year,start_date,end_date,tier,location,scoring_format,n_rounds,n_divisions,n_layouts,n_players,n_player_rounds,n_rounds_with_holes,n_rounds_usable,n_unfinished_999,share_usable,has_hole_scores,is_final
+67158,DGVTour Opener - South Shire Shootout,2023,2023-04-29,2023-04-30,C,"Bennington, Vermont",S,2,13,2,145,290,285,285,1,0.983,True,True
+67159,DGVTour #2 - Gnomes Challenge XV,2023,2023-05-13,2023-05-14,C,"Randolph, Vermont",S,2,13,1,134,268,265,265,2,0.989,True,True
+67160,DGVTour #3 - Quarries Throwdown,2023,2023-05-27,2023-05-28,C,"Websterville, Vermont",S,2,13,2,152,304,301,301,1,0.99,True,True
+67161,DGVTour #4 - Sap Bucket Open XXI,2023,2023-06-10,2023-06-11,C,"Waterbury Center, Vermont",S,2,13,2,170,340,339,339,1,0.997,True,True
+67514,DGVTour #5 - Brewster Ridge Open Driven by Innova,2023,2023-06-23,2023-06-25,A,"Jeffersonville, Vermont",S,3,16,7,336,1008,980,979,17,0.971,True,True
+67713,DGVTour #6 - Jeezum Crow Jam,2023,2023-07-08,2023-07-09,C,"Jay, Vermont",S,2,12,3,73,146,144,144,1,0.986,True,True
+67796,DGVTour #7 - Black Falls Open,2023,2023-07-22,2023-07-23,B,"Montgomery, Vermont",S,2,13,3,146,292,291,291,1,0.997,True,True
+68282,DGVTour #8 - North Calais Open,2023,2023-09-09,2023-09-10,C,"North Calais, Vermont",S,2,15,3,128,256,253,253,2,0.988,True,True
+68349,DGVTour #9 - Magic Mountain Open,2023,2023-09-09,2023-09-10,C,"Londonderry, Vermont",S,3,0,0,0,0,0,0,0,0,False,True
+68642,DGVTour #10 - Cold Hollow Classic,2023,2023-09-23,2023-09-24,B,"Enosburg, Vermont",S,2,14,2,175,350,348,348,2,0.994,True,True
+68786,DGVTour #11 - The Hills Are Alive,2023,2023-10-07,2023-10-08,C,"Stowe, Vermont",S,2,14,1,107,214,214,214,0,1.0,True,True
+68805,DGVTour Finals - Vermont State Championship,2023,2023-10-21,2023-10-22,C,"Jeffersonville, Vermont",S,2,15,6,230,460,449,448,10,0.974,True,True
