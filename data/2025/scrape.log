@@ -1,0 +1,31 @@
+2026-10-05 21:42:23,843 [INFO] Scraping 12 events
+2026-10-05 21:42:25,189 [INFO]   87899: DGVTour #1 - South Shire Shootout (Apr 26-27, 2025), 13 divisions, 2 rounds
+2026-10-05 21:42:56,300 [INFO]   87900: DGVTour #2 - Gnomes Challenge XVII (May 10-11, 2025), 16 divisions, 2 rounds
+2026-10-05 21:43:33,959 [INFO]   88027: DGVTour #3 - Quarries Throwdown (May 24-25, 2025), 15 divisions, 2 rounds
+2026-10-05 21:44:09,418 [INFO]   88189: DGVTour #4 - Battle of Pittsford (Jun 7-8, 2025), 9 divisions, 2 rounds
+2026-10-05 21:44:32,791 [INFO]   86523: DGVTour #5 - Brewster Ridge Open (Jun 20-22, 2025), 15 divisions, 3 rounds
+2026-10-05 21:45:25,822 [INFO]   88944: DGVTour #6 - Black Falls Open (Jul 12-13, 2025), 15 divisions, 2 rounds
+2026-10-05 21:46:01,350 [INFO]   90019: DGVTour #7 - Lincoln Peak Open (Sunday, Jul 27, 2025), 9 divisions, 2 rounds
+2026-10-05 21:46:23,300 [INFO]   90283: DGVTour #8 - North Calais Open (Aug 9-10, 2025), 14 divisions, 2 rounds
+2026-10-05 21:46:56,410 [INFO]   90932: DGVTour #9 - Sap Bucket Open XXIII (Aug 23-24, 2025), 11 divisions, 2 rounds
+2026-10-05 21:47:23,915 [INFO]   91169: DGVTour #10 - Horace Hill Huck (Saturday, Sep 6, 2025), 9 divisions, 2 rounds
+2026-10-05 21:47:46,023 [INFO]   91399: DGVTour #11 - Cold Hollow Classic (Sep 27-28, 2025), 16 divisions, 2 rounds
+2026-10-05 21:48:23,779 [INFO]   91411: DGVTour Finals - Vermont State Championship (Oct 11-12, 2025), 15 divisions, 2 rounds
+2026-10-05 21:48:58,058 [INFO] 
+Parsing raw files
+2026-10-05 21:48:58,152 [INFO]     87899  2025   268 player-rounds,  266 usable (99%),   4788 hole scores  DGVTour #1 - South Shire Shootout
+2026-10-05 21:48:58,223 [INFO]     87900  2025   226 player-rounds,  225 usable (100%),   4050 hole scores  DGVTour #2 - Gnomes Challenge XVII
+2026-10-05 21:48:58,302 [INFO]     88027  2025   308 player-rounds,  302 usable (98%),   5444 hole scores  DGVTour #3 - Quarries Throwdown
+2026-10-05 21:48:58,348 [INFO]     88189  2025   160 player-rounds,  159 usable (99%),   2862 hole scores  DGVTour #4 - Battle of Pittsford
+2026-10-05 21:48:58,578 [INFO]     86523  2025  1050 player-rounds, 1004 usable (96%),  18121 hole scores  DGVTour #5 - Brewster Ridge Open
+2026-10-05 21:48:58,644 [INFO]     88944  2025   236 player-rounds,  232 usable (98%),   4180 hole scores  DGVTour #6 - Black Falls Open
+2026-10-05 21:48:58,696 [INFO]     90019  2025   104 player-rounds,  103 usable (99%),   1854 hole scores  DGVTour #7 - Lincoln Peak Open
+2026-10-05 21:48:58,785 [INFO]     90283  2025   250 player-rounds,  247 usable (99%),   4446 hole scores  DGVTour #8 - North Calais Open
+2026-10-05 21:48:58,828 [INFO]     90932  2025   144 player-rounds,  143 usable (99%),   2574 hole scores  DGVTour #9 - Sap Bucket Open XXIII
+2026-10-05 21:48:58,859 [INFO]     91169  2025    86 player-rounds,   84 usable (98%),   1515 hole scores  DGVTour #10 - Horace Hill Huck
+2026-10-05 21:48:58,951 [INFO]     91399  2025   308 player-rounds,  306 usable (99%),   5508 hole scores  DGVTour #11 - Cold Hollow Classic
+2026-10-05 21:48:59,038 [INFO]     91411  2025   360 player-rounds,  357 usable (99%),   6434 hole scores  DGVTour Finals - Vermont State Championship
+2026-10-05 21:48:59,243 [INFO] 
+12 events (12 with hole scores), 3500 player-rounds (3428 usable), 61776 hole scores
+2026-10-05 21:48:59,243 [INFO] Unfinished (999) rounds: 26; hole sum != round score: 0
+2026-10-05 21:48:59,244 [INFO] Tables -> /Users/luc/Fall 2026/Data Science 2/disc-golf-play-styles-ds2-2026/data/2025/processed
