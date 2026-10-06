@@ -1,0 +1,13 @@
+event_id,name,year,start_date,end_date,tier,location,scoring_format,n_rounds,n_divisions,n_layouts,n_players,n_player_rounds,n_rounds_with_holes,n_rounds_usable,n_unfinished_999,share_usable,has_hole_scores,is_final
+77672,DGVTour #1 - South Shire Shootout,2024,2024-04-27,2024-04-28,C,"Bennington, Vermont",S,2,14,2,159,318,316,315,1,0.991,True,True
+77674,DGVTour #2 - Gnomes Challenge XVI,2024,2024-05-11,2024-05-12,C,"Randolph, Vermont",S,2,16,1,133,266,266,266,0,1.0,True,True
+77909,DGVTour #3 - Quarries Throwdown,2024,2024-05-25,2024-05-26,B,"Websterville, Vermont",S,2,13,2,161,322,318,317,3,0.984,True,True
+77695,DGVTour #4 - Sap Bucket Open XXII,2024,2024-06-08,2024-06-09,C,"Waterbury Center, Vermont",S,2,17,2,149,298,296,296,2,0.993,True,True
+76286,DGVTour #5 - Brewster Ridge Open,2024,2024-06-21,2024-06-23,A,"Jeffersonville, Vermont",S,3,17,13,343,1029,1020,1012,8,0.983,True,True
+78661,DGVTour #6 - Sugarbush Huk,2024,2024-07-07,2024-07-07,C,"Warren, Vermont",S,2,11,2,87,174,174,174,0,1.0,True,True
+78807,DGVTour #7 - Jeezum Crow Jam,2024,2024-07-20,2024-07-21,C,"Jay, Vermont",S,2,9,2,45,90,87,87,3,0.967,True,True
+78862,DGVTour # 8 - North Calais Open,2024,2024-08-10,2024-08-11,C,"North Calais, Vermont",S,2,13,3,119,238,238,238,0,1.0,True,True
+78961,DGVTour #9 - Black Falls Open,2024,2024-08-24,2024-08-25,B,"Montgomery, Vermont",S,2,13,3,123,246,244,243,2,0.988,True,True
+79122,DGVTour #10 - Pittsford Fling,2024,2024-09-07,2024-09-08,C,"Pittsford, Vermont",S,2,13,1,76,152,151,151,1,0.993,True,True
+79898,DGVTour #11 - Cold Hollow Classic,2024,2024-09-28,2024-09-29,B,"Enosburg, Vermont",S,2,15,2,169,338,337,337,1,0.997,True,True
+79942,DGVTour Finals - Vermont State Championship,2024,2024-10-12,2024-10-13,B,"Jeffersonville, Vermont",S,2,17,9,205,410,405,403,3,0.983,True,True
