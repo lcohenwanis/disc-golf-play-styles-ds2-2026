@@ -1,0 +1,9 @@
+event_id,name,year,start_date,end_date,tier,location,scoring_format,n_rounds,n_divisions,n_layouts,n_players,n_player_rounds,n_rounds_with_holes,n_rounds_usable,n_unfinished_999,share_usable,has_hole_scores,is_final
+40642,DGVTour #1 Sap Bucket Open,2019,2019-05-11,2019-05-11,C,"Waterbury Center, Vermont",S,2,11,2,89,178,0,0,1,0.0,False,True
+40643,DGVTour #2 Quarries Throwdown,2019,2019-05-25,2019-05-25,C,"Barre, Vermont",S,2,11,2,86,172,0,0,0,0.0,False,True
+41154,DGVTour #4 Black Falls Open,2019,2019-06-22,2019-06-22,B,"Montgomery Center, Vermont",S,2,10,3,88,176,0,0,1,0.0,False,True
+41155,DGVTour #5 Base Camp Open,2019,2019-07-13,2019-07-13,B,"Killington, Vermont",S,2,9,1,75,150,0,0,4,0.0,False,True
+41384,DGVTour #6 Brewster Ridge Open,2019,2019-07-20,2019-07-20,B,"Jeffersonville, Vermont",S,2,11,6,138,276,0,0,15,0.0,False,True
+41156,DGVTour #7 Wrightsville Beach Open,2019,2019-08-17,2019-08-17,C,"Middlesex, Vermont",S,2,10,4,83,166,0,0,3,0.0,False,True
+41157,DGVTour #9 Bolton Valley Vista Beast,2019,2019-09-21,2019-09-21,C,"Bolton Valley, Vermont",S,2,11,3,70,140,74,73,4,0.521,True,True
+41158,DGV Tour Finals VT State Championships,2019,2019-10-12,2019-10-12,C,"Jay, Vermont",S,2,9,2,59,118,106,106,0,0.898,True,True

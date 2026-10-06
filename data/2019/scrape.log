@@ -1,0 +1,23 @@
+2026-10-05 22:19:28,068 [INFO] Scraping 8 events
+2026-10-05 22:19:29,310 [INFO]   40642: DGVTour #1 Sap Bucket Open (Saturday, May 11, 2019), 11 divisions, 2 rounds
+2026-10-05 22:19:56,073 [INFO]   40643: DGVTour #2 Quarries Throwdown (Saturday, May 25, 2019), 11 divisions, 2 rounds
+2026-10-05 22:20:22,578 [INFO]   41154: DGVTour #4 Black Falls Open (Saturday, Jun 22, 2019), 10 divisions, 2 rounds
+2026-10-05 22:20:46,901 [INFO]   41155: DGVTour #5 Base Camp Open (Saturday, Jul 13, 2019), 9 divisions, 2 rounds
+2026-10-05 22:21:10,618 [INFO]   41384: DGVTour #6 Brewster Ridge Open (Saturday, Jul 20, 2019), 11 divisions, 2 rounds
+2026-10-05 22:21:37,134 [INFO]   41156: DGVTour #7 Wrightsville Beach Open (Saturday, Aug 17, 2019), 10 divisions, 2 rounds
+2026-10-05 22:22:01,291 [INFO]   41157: DGVTour #9 Bolton Valley Vista Beast (Saturday, Sep 21, 2019), 11 divisions, 2 rounds
+2026-10-05 22:22:27,718 [INFO]   41158: DGV Tour Finals VT State Championships (Saturday, Oct 12, 2019), 9 divisions, 2 rounds
+2026-10-05 22:22:48,527 [INFO] 
+Parsing raw files
+2026-10-05 22:22:48,594 [INFO]     40642  2019   178 player-rounds,    0 usable (0%),      0 hole scores  DGVTour #1 Sap Bucket Open
+2026-10-05 22:22:48,640 [INFO]     40643  2019   172 player-rounds,    0 usable (0%),      0 hole scores  DGVTour #2 Quarries Throwdown
+2026-10-05 22:22:48,691 [INFO]     41154  2019   176 player-rounds,    0 usable (0%),      0 hole scores  DGVTour #4 Black Falls Open
+2026-10-05 22:22:48,726 [INFO]     41155  2019   150 player-rounds,    0 usable (0%),      0 hole scores  DGVTour #5 Base Camp Open
+2026-10-05 22:22:48,786 [INFO]     41384  2019   276 player-rounds,    0 usable (0%),      0 hole scores  DGVTour #6 Brewster Ridge Open
+2026-10-05 22:22:48,824 [INFO]     41156  2019   166 player-rounds,    0 usable (0%),      0 hole scores  DGVTour #7 Wrightsville Beach Open
+2026-10-05 22:22:48,859 [INFO]     41157  2019   140 player-rounds,   73 usable (52%),   1329 hole scores  DGVTour #9 Bolton Valley Vista Beast
+2026-10-05 22:22:48,905 [INFO]     41158  2019   118 player-rounds,  106 usable (90%),   1908 hole scores  DGV Tour Finals VT State Championships
+2026-10-05 22:22:48,924 [INFO] 
+8 events (2 with hole scores), 1376 player-rounds (179 usable), 3237 hole scores
+2026-10-05 22:22:48,924 [INFO] Unfinished (999) rounds: 28; hole sum != round score: 0
+2026-10-05 22:22:48,924 [INFO] Tables -> /Users/luc/Fall 2026/Data Science 2/disc-golf-play-styles-ds2-2026/data/2019/processed
