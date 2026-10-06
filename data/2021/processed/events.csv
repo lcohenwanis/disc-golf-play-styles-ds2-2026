@@ -1,0 +1,14 @@
+event_id,name,year,start_date,end_date,tier,location,scoring_format,n_rounds,n_divisions,n_layouts,n_players,n_player_rounds,n_rounds_with_holes,n_rounds_usable,n_unfinished_999,share_usable,has_hole_scores,is_final
+49941,DGVTour #1 South Shire Open,2021,2021-04-24,2021-04-25,C,"Bennington, Vermont",S,2,14,2,167,334,331,330,0,0.988,True,True
+49942,DGVTour #2 Stone Village Shootout + WGE,2021,2021-05-08,2021-05-09,C,"Chester, Vermont",S,2,10,2,86,172,168,168,3,0.977,True,True
+49943,DGVTour #3 Quarries Throwdown,2021,2021-05-22,2021-05-23,C,"Websterville, Vermont",S,2,12,2,149,298,296,296,2,0.993,True,True
+49944,DGVTour #4 Sap Bucket Open XVIII,2021,2021-06-05,2021-06-06,C,"Waterbury Center, Vermont",S,2,13,2,180,360,355,355,1,0.986,True,True
+49945,DGVTour #5 Brewster Ridge Open ,2021,2021-06-18,2021-06-20,B,"Jeffersonville, Vermont",S,3,12,7,252,756,754,754,2,0.997,True,True
+49951,DGVTour #6 Gnomes Challenge,2021,2021-07-03,2021-07-04,C,"Randolph, Vermont",S,2,13,1,93,186,186,186,0,1.0,True,True
+49952,DGVTour #7 Run for the Border,2021,2021-07-16,2021-07-18,B,"Enosburg Falls & Montgomery, Vermont",S,3,11,4,101,303,298,298,2,0.983,True,True
+49953,DGVTour #8 Magic Mountain Open,2021,2021-07-31,2021-08-01,B,"Londonderry, Vermont",S,2,13,2,126,252,250,250,2,0.992,True,True
+49954,DGVTour #9 North Calais Open,2021,2021-08-14,2021-08-15,C,"North Calais, Vermont",S,2,12,3,107,214,4,0,3,0.0,True,True
+49955,DGVTour #10 Base Camp Open,2021,2021-08-28,2021-08-29,C,"Killington, Vermont",S,2,9,1,60,120,119,119,1,0.992,True,True
+49956,DGVTour #11 Vista Beast Challenge,2021,2021-09-18,2021-09-19,B,"Bolton, Vermont",S,2,10,1,66,132,132,132,0,1.0,True,True
+49957,DGVTour #12 Rotary Southern Vermont Championship,2021,2021-10-02,2021-10-03,B,"Brattleboro, Vermont",S,2,11,2,64,128,127,127,1,0.992,True,True
+49958,DGVTour Finals Vermont State Championship,2021,2021-10-16,2021-10-17,B,"Jeffersonville, Vermont",S,2,13,7,144,288,286,286,2,0.993,True,True
