@@ -15,7 +15,7 @@
 
 ## Scrape progress
 
-Last scraped October 5, 2026, with `scrape-pdga-live.py`. All 93 events in the CSV were scraped except the 2026 Vermont State Championship (98262), which hasn't been played yet. Each season has its own folder:
+Last scraped October 5, 2026, with `python -m dgvt_styles.scrape` (formerly `scrape-pdga-live.py`). All 93 events in the CSV were scraped except the 2026 Vermont State Championship (98262), which hasn't been played yet. Each season has its own folder:
 
 ```
 data/<year>/

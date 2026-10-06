@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 PDGA Live Detailed Scraper — DGVT play styles project
 
@@ -24,16 +23,17 @@ The PDGA Live React app reads two JSON endpoints, which we call directly:
       per-player hole scores; each player has their own LayoutID, since
       divisions in the same round can play different tees
 
-Usage:
-    python scrape-pdga-live.py                          # all DGVT tour events, 2019-2026
-    python scrape-pdga-live.py --years 2024-2026        # a subset of seasons
-    python scrape-pdga-live.py --events 98424,98552     # specific events (any event ID)
-    python scrape-pdga-live.py --include-leagues        # also DGVT flex leagues
-    python scrape-pdga-live.py --parse-only             # rebuild tables from data/raw, no network
+Usage (from the repo root):
+    python -m dgvt_styles.scrape                                  # all DGVT tour events, 2019-2026
+    python -m dgvt_styles.scrape --years 2024-2026                # a subset of seasons
+    python -m dgvt_styles.scrape --events 98262 --data-dir data/2026   # specific events (any event ID)
+    python -m dgvt_styles.scrape --include-leagues                # also DGVT flex leagues
+    python -m dgvt_styles.scrape --parse-only --data-dir data/2026     # rebuild tables, no network
+    python -m dgvt_styles.scrape --refresh                        # ignore the cache and re-download
 
-The tables in data/processed always cover every event cached in data/raw, so
-scraping one more event into an existing data folder adds it to the tables.
-    python scrape-pdga-live.py --refresh                # ignore the cache and re-download
+The tables in <data-dir>/processed always cover every event cached in
+<data-dir>/raw, so scraping one more event into an existing data folder adds it
+to the tables.
 """
 
 import argparse, csv, json, logging, os, re, sys, time
