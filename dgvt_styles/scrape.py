@@ -15,6 +15,7 @@ events, 2019-2026. It runs the first two stages of the project pipeline:
        holes.csv        one row per layout x hole (par, length)
        rounds.csv       one row per player x round, with data-quality checks
        hole_scores.csv  one row per player x hole x round (the unit of analysis)
+       registrations.csv  one row per registered player, for events that haven't started
 
 The PDGA Live React app reads two JSON endpoints, which we call directly:
   live_results_fetch_event?TournID={event}
@@ -209,7 +210,10 @@ def scrape_event(session, event_id, refresh=False):
 
     start = event.get("StartDate")
     if start and date.fromisoformat(start) > date.today():
-        log.info(f"  {event_id}: {event.get('Name')} hasn't started yet, skipping")
+        # Before an event starts, its results page lists the registered players.
+        log.info(f"  {event_id}: {event.get('Name')} hasn't started yet, downloading registrations only")
+        fetch_cached(session, f"{RESULTS_URL}/{event_id}", None,
+                     os.path.join(folder, "results.html"), True)
         return
 
     stale = refresh or not is_final(event)
@@ -274,6 +278,36 @@ def parse_event_ratings(html):
     return ratings
 
 
+def parse_registrations(event_id, html):
+    """
+    One row per registered player from an event's page before it starts: a
+    table per division, headed "MA3 · Mixed Amateur 3 (198)".
+    """
+    if not html:
+        return []
+    rows = []
+    soup = BeautifulSoup(html, "html.parser")
+    for table in soup.select("table"):
+        heading = table.find_previous(["h3", "h2", "summary"])
+        headers = [th.get_text(strip=True) for th in table.select("th")]
+        if heading is None or "PDGA#" not in headers or "·" not in heading.get_text():
+            continue
+        division = heading.get_text(" ", strip=True).split("·")[0].strip()
+        for tr in table.select("tr")[1:]:
+            cells = dict(zip(headers, (td.get_text(strip=True) for td in tr.select("td"))))
+            rows.append({
+                "event_id": event_id,
+                "division": division,
+                "player_name": cells.get("Name"),
+                "pdga_number": to_int(cells.get("PDGA#")),
+                "rating": to_int(cells.get("Rating")),
+                "city": cells.get("City"),
+                "state": cells.get("State"),
+                "country": cells.get("Country"),
+            })
+    return rows
+
+
 def add_layout(layouts, L, details_key):
     """Merge one layout object into {layout_id: layout} with per-hole par and length."""
     layout_id = to_int(L.get("LayoutID"))
@@ -325,12 +359,14 @@ def parse_event(event_id):
             continue
         division, rnd = m.group(1), int(m.group(2))
         data = api_data(open(os.path.join(folder, fname)).read())
-        if not isinstance(data, dict):
-            continue
-        for L in data.get("layouts") or []:
-            add_layout(layouts, L, "Detail")  # round-level details have hole ordinals
+        # A division split into pools (each on its own course) comes back as a
+        # list with one entry per pool.
+        pools = data if isinstance(data, list) else [data] if isinstance(data, dict) else []
+        for pool in pools:
+            for L in pool.get("layouts") or []:
+                add_layout(layouts, L, "Detail")  # round-level details have hole ordinals
 
-        for s in data.get("scores") or []:
+        for s in (s for pool in pools for s in pool.get("scores") or []):
             # Only keep this round's scores, once per player.
             if to_int(s.get("Round")) != rnd:
                 continue
@@ -435,23 +471,26 @@ def parse_event(event_id):
         "has_hole_scores": with_holes > 0,
         "is_final": is_final(event),
     }
-    return event_row, layout_rows, round_rows, hole_rows
+    registrations = [] if round_rows else parse_registrations(
+        event_id, open(results_path).read() if os.path.exists(results_path) else None)
+    return event_row, layout_rows, round_rows, hole_rows, registrations
 
 
 def parse_all(event_ids):
     """Parse every cached event and write the tidy tables."""
-    events, holes, rounds, hole_scores = [], [], [], []
+    events, holes, rounds, hole_scores, registrations = [], [], [], [], []
     for event_id in event_ids:
         if not os.path.exists(os.path.join(raw_dir(event_id), "event.json")):
             continue
         parsed = parse_event(event_id)
         if not parsed:
             continue
-        e, h, r, s = parsed
+        e, h, r, s, reg = parsed
         events.append(e)
         holes.extend(h)
         rounds.extend(r)
         hole_scores.extend(s)
+        registrations.extend(reg)
         log.info(f"  {event_id:>7}  {e['year']}  {e['n_player_rounds']:4d} player-rounds, "
                  f"{e['n_rounds_usable']:4d} usable ({e['share_usable']:.0%}), "
                  f"{len(s):6d} hole scores  {e['name']}")
@@ -461,6 +500,7 @@ def parse_all(event_ids):
     write_csv(os.path.join(out, "holes.csv"), holes)
     write_csv(os.path.join(out, "rounds.csv"), rounds)
     write_csv(os.path.join(out, "hole_scores.csv"), hole_scores)
+    write_csv(os.path.join(out, "registrations.csv"), registrations)  # events that haven't started
 
     usable = sum(r["usable"] for r in rounds)
     log.info(f"\n{len(events)} events ({sum(e['has_hole_scores'] for e in events)} with hole scores), "

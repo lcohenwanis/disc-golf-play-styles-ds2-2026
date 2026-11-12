@@ -1,0 +1,3 @@
+event_id,name,year,start_date,end_date,tier,location,scoring_format,n_rounds,n_divisions,n_layouts,n_players,n_player_rounds,n_rounds_with_holes,n_rounds_usable,n_unfinished_999,share_usable,has_hole_scores,is_final
+87034,The GameProofer 2025 NADGT North American Disc Golf Championships (NADGC),2025,2025-10-29,2025-11-01,B,"Austin, Texas",S,4,15,24,673,2692,2664,2594,15,0.964,True,True
+98248,2026 NADGT North American Disc Golf Championships (NADGC),2026,2026-10-28,2026-10-31,A,"Austin, Texas",S,4,21,10,863,1726,863,863,1,0.5,True,False

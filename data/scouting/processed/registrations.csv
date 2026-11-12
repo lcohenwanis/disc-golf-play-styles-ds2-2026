@@ -1,0 +1,858 @@
+event_id,division,player_name,pdga_number,rating,city,state,country
+98248,MA1,Josh Warner,33632,943,Olathe,KS,United States
+98248,MA1,Nathaniel Mazur,52343,971,Midlothian,VA,United States
+98248,MA1,Zane Levin,53579,935,Breckenridge,CO,United States
+98248,MA1,David O'Meara,66276,922,Indianola,IA,United States
+98248,MA1,Kory Seddon,75406,949,Tempe,AZ,United States
+98248,MA1,Tommy Martin,78101,939,Milton,FL,United States
+98248,MA1,Joshua Ward,82723,941,Okatie,SC,United States
+98248,MA1,Wilson Grebe,102461,961,Goldthwaite,TX,United States
+98248,MA1,Jimmy Wilkerson,103451,942,Grovetown,GA,United States
+98248,MA1,Kolten Patterson,117390,996,Williamstown,KY,United States
+98248,MA1,Garrett Arnett,118414,951,San Antonio,TX,United States
+98248,MA1,Avery Kuper,120051,953,Grand Jct,CO,United States
+98248,MA1,Matthew McDonald,123695,926,Springdale,AR,United States
+98248,MA1,Dayne Zimmerman,127250,972,Roanoke,IL,United States
+98248,MA1,Brent Palmer,127708,907,Austin,TX,United States
+98248,MA1,Brandon Bohaychyk,128632,942,Canton,OH,United States
+98248,MA1,Bryan Pacheco,128710,929,Aurora,CO,United States
+98248,MA1,Josh Knight,134711,953,Marietta,GA,United States
+98248,MA1,Michael Hatchett,136053,924,Fayetteville,AR,United States
+98248,MA1,Kevin De Leon,136433,922,San Antonio,TX,United States
+98248,MA1,Ronny Cerevic,136441,933,Tempe,AZ,United States
+98248,MA1,Jeremy Taylor,139568,973,Huntingtown,MD,United States
+98248,MA1,Adam Horst,140245,951,Aurora,CO,United States
+98248,MA1,Cameron Smith,141790,940,Farmington,AR,United States
+98248,MA1,Kolby Isenburg,142435,945,Spanish Fort,AL,United States
+98248,MA1,Thomas Hapka,142677,902,Austin,TX,United States
+98248,MA1,Christopher Peterson,145770,959,Aurora,CO,United States
+98248,MA1,Weslee Moon,146088,911,Anchorage,AK,United States
+98248,MA1,Tim Banning,146666,942,,,
+98248,MA1,Deitric Schweitzer,147337,974,Cozad,NE,United States
+98248,MA1,Kainoa Hussey,149952,850,Burleson,TX,United States
+98248,MA1,Clayton Mitte,153175,925,Victoria,TX,United States
+98248,MA1,Kaeden Nygaard,156421,943,Eden Prairie,MN,United States
+98248,MA1,Marshall Kratzer,157312,912,San Antonio,TX,United States
+98248,MA1,Taylor Cruz,159461,959,Santa Fe,NM,United States
+98248,MA1,Cameron Cutlip,160199,957,Canton,GA,United States
+98248,MA1,Ethan Bailey,160725,996,Austin,TX,United States
+98248,MA1,Jimmy Wiesbrock,160852,969,Denver,CO,United States
+98248,MA1,John Rodriguez,162103,931,Sacramento,CA,United States
+98248,MA1,Max Weber,162455,959,Denver,CO,United States
+98248,MA1,Jacob Poole,165772,931,Austin,TX,United States
+98248,MA1,Dallas Bean,173108,932,Lehi,UT,United States
+98248,MA1,Brandon Smith,176226,939,San Diego,CA,United States
+98248,MA1,Allen Black,176247,938,Anchorage,AK,United States
+98248,MA1,Jackson Sheldon,179341,948,Saint Paul,MN,United States
+98248,MA1,Joshua Mooney,179682,896,Girdwood,AK,United States
+98248,MA1,Ryan (Ray) Fanelli,180404,950,Danbury,CT,United States
+98248,MA1,Brandon Leonard,180405,943,Gonzales,LA,United States
+98248,MA1,Conner Clark,181131,977,Hillsdale,MI,United States
+98248,MA1,Jared Knott,183207,937,Colorado Springs,CO,United States
+98248,MA1,Stephen Suntrup Jr,183268,952,St. Louis,MO,United States
+98248,MA1,Antonio Arias,185322,949,Pflugerville,TX,United States
+98248,MA1,Baden Mann,186316,980,Evergreen,CO,United States
+98248,MA1,Angel Ortega,186865,905,Deer park,TX,United States
+98248,MA1,Cody Rios,190033,900,Riverside,CA,United States
+98248,MA1,Jax Smith,190081,938,Pleasanton,TX,United States
+98248,MA1,Todd Poehlmann,190937,940,Sedalia,MO,United States
+98248,MA1,Benjamin Poehlmann,194387,917,Sweet Springs,MO,United States
+98248,MA1,Chayse Grandmontagne,197549,899,Savannah,GA,United States
+98248,MA1,Bradley Modisette,198365,922,Amarillo,TX,United States
+98248,MA1,Glenn Eaton,199183,908,Converse,TX,United States
+98248,MA1,Vaughn Bontrager,210649,991,Kokomo,IN,United States
+98248,MA1,Josue Granados,210786,924,Georgetown,TX,United States
+98248,MA1,Damian Everette,219724,969,Broken Arrow,OK,United States
+98248,MA1,Jackson McDonald,220532,981,Richardson,TX,United States
+98248,MA1,Tayan Patterson,222165,907,Spearfish,SD,United States
+98248,MA1,David Campbell,222381,949,Charlotte,NC,United States
+98248,MA1,Cameron Hoffman,223484,981,Pflugerville,TX,United States
+98248,MA1,Ben Pipkorn,225236,915,Dubuque,IA,United States
+98248,MA1,Cody Sandra,226495,941,Warrensburg,MO,United States
+98248,MA1,Devin Lucas,226762,956,Tulsa,OK,United States
+98248,MA1,Daniel Athey,226893,958,Austin,TX,United States
+98248,MA1,Zach Hartman,227673,944,Fort Collins,CO,United States
+98248,MA1,Garrett O'Kelley,236242,893,Austin,TX,United States
+98248,MA1,Steve Duvall,237884,953,Greeley,CO,United States
+98248,MA1,Douglas Fournet,240450,960,Colorado Springs,CO,United States
+98248,MA1,Travis Pevoto,240547,897,Texas City,TX,United States
+98248,MA1,Michael Nowakowski,240761,914,Burleson,TX,United States
+98248,MA1,Karl Wallner,241606,943,Stockholm,,Sweden
+98248,MA1,Noah Feil,242013,1014,Mokena,IL,United States
+98248,MA1,Travis Saldana,242507,965,Leander,TX,United States
+98248,MA1,Nelson Adams,244717,917,Albany,OR,United States
+98248,MA1,Matthew Frintner,247934,950,La Junta,CO,United States
+98248,MA1,Rafael Frias,248431,878,Joshua,TX,United States
+98248,MA1,Dennis Lu,252643,931,Lakewood,CO,United States
+98248,MA1,Blayne Nichols,253698,936,Moore,OK,United States
+98248,MA1,Ryan Tennessen,253980,948,Lakeville,MN,United States
+98248,MA1,Austin Taylor,255720,967,Honeyville,UT,United States
+98248,MA1,Kellen Cox,259828,936,Concordia,MO,United States
+98248,MA1,Caleb Taylor,260352,931,Honeyville,UT,United States
+98248,MA1,Cole Edwards,264225,980,Austin,TX,United States
+98248,MA1,Nick Schatz,265041,936,Austin,TX,United States
+98248,MA1,Major Cardin,265064,949,Ozark,MO,United States
+98248,MA1,Dylan Millikin,265341,913,Springfield,MO,United States
+98248,MA1,Seth Hartman,266836,883,Gheens,LA,United States
+98248,MA1,Benjamin Verdery,268799,951,Washington,GA,United States
+98248,MA1,Andres Insley,269384,879,Whitehorse,YT,Canada
+98248,MA1,Azariah Barry,270543,977,Boelus,NE,United States
+98248,MA1,Max Williams,270910,934,ALBUQUERQUE,NM,United States
+98248,MA1,Brandon Ramsey,274569,935,Pilot Point,TX,United States
+98248,MA1,Noah Smith,274848,911,Flagstaff,AZ,United States
+98248,MA1,Tyler Bates,277493,960,Suquamish,WA,United States
+98248,MA1,Silas Roth,278344,911,Christmas Valley,OR,United States
+98248,MA1,Matthew Newman,279884,935,Charlotte,NC,United States
+98248,MA1,John Morreale,281452,945,Erie,CO,United States
+98248,MA1,Andrew Malmanger,285540,957,Bloomer,WI,United States
+98248,MA1,Sammy Calvillo,285579,941,Los Angeles,CA,United States
+98248,MA1,Nathan Cousins,286750,940,San Marcos,TX,United States
+98248,MA1,Isaac Madden,287582,904,Woodbridge,VA,United States
+98248,MA1,Brian Enns,288283,946,Aylmer,ON,Canada
+98248,MA1,Josiah Barlow,288316,967,Kodak,TN,United States
+98248,MA1,Mario Ortega,289501,936,Mason City,IA,United States
+98248,MA1,Chasen Dewind,289609,950,Palm Coast,FL,United States
+98248,MA1,Cameron Stine,292445,972,Cleveland,TN,United States
+98248,MA1,Conner Stephens,292507,914,Lubbock,TX,United States
+98248,MA1,Nate Fangman,292636,913,Salida,CO,United States
+98248,MA1,Jacob Van Pelt,293663,972,Vacaville,CA,United States
+98248,MA1,Austin Smith,295677,919,North Richland Hills,TX,United States
+98248,MA1,Brody Moser,296167,955,Tidewater,OR,United States
+98248,MA1,Michael Presler,297659,940,Los Banos,CA,United States
+98248,MA1,Matthew Knudsen,299183,938,San Jose,CA,United States
+98248,MA1,Eliah Lewis,299454,933,Lake Forest Park,WA,United States
+98248,MA1,Kyle Reese,299884,920,Cedar Park,TX,United States
+98248,MA1,Jarad Bowling,301364,906,Angleton,TX,United States
+98248,MA1,Derek Johnson,301975,950,Arvada,CO,United States
+98248,MA1,Tanner Dale,302101,928,Austin,TX,United States
+98248,MA1,Danson Cappo,302944,949,Honolulu,HI,United States
+98248,MA1,Jackson Stevens,304274,945,Arvada,CO,United States
+98248,MA1,Brick Dalsis,305155,961,Lakewood,CO,United States
+98248,MA1,Colin Clabaugh,305465,950,Estherville,IA,United States
+98248,MA1,Johnny Walker,307434,919,Melbourne,FL,United States
+98248,MA1,Grady Allen,307461,938,Mesa,AZ,United States
+98248,MA1,Caleb Duncan,312298,941,College Station,TX,United States
+98248,MA1,Grayson Shepard,314060,939,Decatur,AL,United States
+98248,MA1,Matthew Duffey,314944,917,Rough and Ready,CA,United States
+98248,MA1,Sean Bowman,315868,888,Ogden,UT,United States
+98248,MA1,Trystan Ketchens,316281,958,Chippewa Falls,WI,United States
+98248,MA1,Colton Sims,316875,918,Pueblo,CO,United States
+98248,MA1,Tj Gibson,316976,872,Eatonville,WA,United States
+98248,MA1,Nikolaj DeNiro,321967,889,Fort Collins,CO,United States
+98248,MA1,Tyler Hodges,323774,912,Orem,UT,United States
+98248,MA1,Agustin Davis,324475,935,Harlingen,TX,United States
+98248,MA1,Garrett Kufner,325727,953,Antigo,WI,United States
+98248,MA1,michael vageline,330800,871,austin,TX,United States
+98248,FA1,Amelia George,130405,856,Bonney Lake,WA,United States
+98248,FA1,Natasha Scolaro,133462,841,Martinsburg,WV,United States
+98248,FA1,Rebecca Kruse,195971,849,Fort Worth,TX,United States
+98248,FA1,Eden Fletcher,209432,912,San Diego,CA,United States
+98248,FA1,Clarice Miller,222882,873,Lynnwood,WA,United States
+98248,FA1,Kirsten Mazur,238010,869,Georgetown,TX,United States
+98248,FA1,Sara Pelfrey,246537,825,Hillsboro,OH,United States
+98248,FA1,Lindsey Waters,250522,720,Shreveport,LA,United States
+98248,FA1,Nikki Haney,259823,863,Louisville,KY,United States
+98248,FA1,Katherine Aydelott,284553,872,Cedar Park,TX,United States
+98248,FA1,Robbyn Atkins,289601,840,Pflugerville,TX,United States
+98248,MA40,Jackson Beals,16059,930,Austin,TX,United States
+98248,MA40,Landon Williams,26180,943,Georgetown,TX,United States
+98248,MA40,Scott Hougland,33341,942,San Antonio,TX,United States
+98248,MA40,Zach Doggett,34312,951,Dripping Springs,TX,United States
+98248,MA40,John Tillman,34396,885,Sand Springs,OK,United States
+98248,MA40,Somsack Bouasri,42050,887,Anchorage,AK,United States
+98248,MA40,Michael Snider,49546,904,Aubrey,TX,United States
+98248,MA40,Elijah Martin,59844,908,Homer,AK,United States
+98248,MA40,Sean Estep,60452,933,Tishomingo,OK,United States
+98248,MA40,Bart Miller,61676,922,San Antonio,TX,United States
+98248,MA40,Monte Bruington,63350,956,Rusk,TX,United States
+98248,MA40,Jacinto Montez,67548,877,San Benito,TX,United States
+98248,MA40,Garrett Beckman,79793,951,Garnett,KS,United States
+98248,MA40,Michael Oz Oswald,81176,905,Arvada,CO,United States
+98248,MA40,Shawn Gould,82344,895,Parker,CO,United States
+98248,MA40,Ross Burton,83599,901,Longview,WA,United States
+98248,MA40,Casey Estep,84127,952,Duncan,OK,United States
+98248,MA40,Nolan Dutton,86581,904,Golden,CO,United States
+98248,MA40,Lucas Sawyer,130903,943,Arcata,CA,United States
+98248,MA40,Issac Hernandez,131227,918,Bastrop,TX,United States
+98248,MA40,Joe Rosner,132169,908,GEORGETOWN,TX,United States
+98248,MA40,Joshua Walters,132775,920,Weatherford,TX,United States
+98248,MA40,David Gimber,133271,877,Columbia,SC,United States
+98248,MA40,Anthony Scolaro,133463,947,Martinsburg,WV,United States
+98248,MA40,Richard Pry,136056,931,Junction City,KS,United States
+98248,MA40,Vinny Fiacco,140160,922,Aurora,CO,United States
+98248,MA40,Richard Merrill,143173,930,Massillon,OH,United States
+98248,MA40,Jason Rogers,144390,931,Round Rock,TX,United States
+98248,MA40,Travers Williams,145159,922,Corvallis,OR,United States
+98248,MA40,Matt Morris,149187,915,Saint Helens,OR,United States
+98248,MA40,Timothy Lloyd,154453,936,Tucson,AZ,United States
+98248,MA40,Matthew Ellis,165569,925,San Diego,CA,United States
+98248,MA40,Henry Hogensen,166591,956,San Marcos,TX,United States
+98248,MA40,Eric Goodyke,170543,924,Austin,TX,United States
+98248,MA40,Justin Brock,174150,867,Wolcott,IN,United States
+98248,MA40,David Robinson,178451,800,Estherville,IA,United States
+98248,MA40,Chris Bergman,181147,909,Cleburne,TX,United States
+98248,MA40,Cory Meyer,187763,945,Sacramento,CA,United States
+98248,MA40,Ryan McGuigan,188746,913,Phoenix,AZ,United States
+98248,MA40,Ruben Marty Martinez,191155,870,Austin,TX,United States
+98248,MA40,Isaac Wildrick,192661,903,Bangor,ME,United States
+98248,MA40,Peder Brown,195520,888,Colorado Springs,CO,United States
+98248,MA40,Joseph Caron,210706,909,Gansevoort,NY,United States
+98248,MA40,Jonathan Price,219369,948,San Marcos,TX,United States
+98248,MA40,Michael Stout,231990,869,Groton,NY,United States
+98248,MA40,Ricky Brown,234898,943,Vallejo,CA,United States
+98248,MA40,Scott Hinton,239447,910,Collinsville,OK,United States
+98248,MA40,Marcus Philpot,248774,891,Tulsa,OK,United States
+98248,MA40,Brandon Crane,254833,904,New Auburn,WI,United States
+98248,MA40,Jesse Maurer,256578,926,Colorado Springs,CO,United States
+98248,MA40,Damen Warkentin,257762,887,Miltonvale,KS,United States
+98248,MA40,Robert Ploeger,258356,948,Kyle,TX,United States
+98248,MA40,Scott Klawitter,259224,906,Helena,AL,United States
+98248,MA40,Travis Lankford,266391,909,Wichita,KS,United States
+98248,MA40,Chris Crothers,278279,877,Delaware,OH,United States
+98248,MA40,Ryan Plant,278420,933,Melrose,FL,United States
+98248,MA40,Andrew Castellano,282494,877,Santa Fe,NM,United States
+98248,MA40,Samuel Schutze,282902,954,Wimberley,TX,United States
+98248,MA40,Hans Hunsperger,289942,883,Whitehall,NY,United States
+98248,MA40,John Kimball,290938,922,Manchester,NH,United States
+98248,MA40,Jonathan Lissner,294388,913,Victor,MT,United States
+98248,MA40,Kiel Rucker,295664,911,Victor,MT,United States
+98248,MA40,Jeff Huebner,298859,930,Albany,OR,United States
+98248,MA40,RJ Byrd,307671,918,Frisco,CO,United States
+98248,MA40,James McDaniel,311998,914,South Jordan,UT,United States
+98248,MA40,Sterling Wright,313332,918,Ukiah,CA,United States
+98248,FA40,Jaelyn Morris,241277,678,Saint Helens,OR,United States
+98248,FA40,Tiffany Evans,328264,692,Carthage,TX,United States
+98248,MA50,Zax Padilla,16574,903,Austin,TX,United States
+98248,MA50,Eric Stephens,19854,888,Dallas,TX,United States
+98248,MA50,Keith Walker,26722,932,Yukon,OK,United States
+98248,MA50,Doug Birdwell,28687,882,Castle Rock,WA,United States
+98248,MA50,Jay Williams,37463,923,Smithville,MO,United States
+98248,MA50,Scott Belknap,46242,879,Lexington,SC,United States
+98248,MA50,Ron Sanders,56896,939,Carrollton,TX,United States
+98248,MA50,Timothy Cotton,68210,894,Grayland,WA,United States
+98248,MA50,Daryl Huschka,78976,903,Salida,CO,United States
+98248,MA50,Gary Landrum,82528,911,Howell,MI,United States
+98248,MA50,Kevin Whittaker,85820,913,Gold Beach,OR,United States
+98248,MA50,Todd DAS Boodt,102870,872,Puyallup,WA,United States
+98248,MA50,Thumber Scott Deaton,117245,906,Maroa,IL,United States
+98248,MA50,Carris Florie,117883,867,Nampa,ID,United States
+98248,MA50,Wasim Rahim,120078,905,Fort Worth,TX,United States
+98248,MA50,Richard Eastman,123764,898,Federal Way,WA,United States
+98248,MA50,Jim Nesbitt,130716,914,Encinitas,CA,United States
+98248,MA50,Mike McCann,143802,913,New Braunfels,TX,United States
+98248,MA50,Steve Owen,151398,877,Austin,TX,United States
+98248,MA50,Shaun Lockhart,156689,892,Castle Rock,WA,United States
+98248,MA50,Jason Lilleboe,183986,863,Austin,TX,United States
+98248,MA50,Ryan VanWinkle,194846,918,Georgetown,TX,United States
+98248,MA50,Ron Vladick,195043,878,Duluth,GA,United States
+98248,MA50,Vince Regan,198492,890,,,
+98248,MA50,Roger Rahill,205036,926,Colorado Springs,CO,United States
+98248,MA50,Kevin Carter,214839,824,Madras,OR,United States
+98248,MA50,Victor Snell,222057,877,Round Rock,TX,United States
+98248,MA50,Raul (Pop-Pop) Reyes,222334,906,Lakeside,AZ,United States
+98248,MA50,Steve Sprague,231665,905,Kennewick,WA,United States
+98248,MA50,Jay Pigford,232595,916,Leeds,AL,United States
+98248,MA50,David Wright,239953,895,Greenville,SC,United States
+98248,MA50,Earl Taylor,255346,876,Honeyville,UT,United States
+98248,MA50,Steven Joyner,263184,871,Austin,TX,United States
+98248,MA50,Tim Poole,268577,814,Spicewood,TX,United States
+98248,MA50,Antonio Campos Jr,277309,880,Santa Rosa,CA,United States
+98248,MA50,Brian Setzer,286460,885,Santee,CA,United States
+98248,MA50,Matt Jensen,290916,953,Amity,OR,United States
+98248,MA50,Bret Olson,295585,936,Vancouver,WA,United States
+98248,MA50,Justin Wimpress,300675,895,Castle Rock,WA,United States
+98248,MA50,James Tomlinson,303903,768,Bastrop,TX,United States
+98248,MA50,Andrew Strauss,316868,899,Ukiah,CA,United States
+98248,MA50,Kevin Boulier,324008,879,Saint Francis,WI,United States
+98248,MA50,Jason Wescott,324404,878,Troy,TX,United States
+98248,MA50,Michael Vasquez,326604,940,Austin,TX,United States
+98248,FA50,Stephanie Wright,250542,788,Greer,SC,United States
+98248,FA50,Jennifer Adams,258157,812,Calgary,AB,Canada
+98248,FA50,Sarah Williams,293655,765,Smithville,MO,United States
+98248,FA50,SUNNE YOUNG,327149,803,Hamilton,AL,United States
+98248,MA55,Robert Burridge,11081,917,Houston,TX,United States
+98248,MA55,Todd Moore,16520,906,Denver,CO,United States
+98248,MA55,Wayne Dillen,34309,906,San Marcos,TX,United States
+98248,MA55,Barry Saling,54907,892,Arlington,TX,United States
+98248,MA55,Scot Estep,77824,938,Spring Branch,TX,United States
+98248,MA55,Roger Sutherland,150382,805,Acworth,GA,United States
+98248,MA55,Jeff Rich,156286,913,Bellingham,WA,United States
+98248,MA55,Kevin Holzhausen,160058,857,Cheyenne,WY,United States
+98248,MA55,Ryan Christian,165264,927,Fort Worth,TX,United States
+98248,MA55,Trey Paulissen,171769,818,Carlsbad,CA,United States
+98248,MA55,Pierre Boucher,188012,922,Boucherville,QC,Canada
+98248,MA55,Stephen Jones,191229,813,Benicia,CA,United States
+98248,MA55,Brian Ward,197048,889,Goose Creek,SC,United States
+98248,MA55,Travis Reaves,200058,904,Killeen,TX,United States
+98248,MA55,Patrick Sandra,225935,945,Vail,AZ,United States
+98248,MA55,Thomsen Kirk,226642,875,Milwaukee,WI,United States
+98248,MA55,Michael McKee,232812,866,Livingston,TX,United States
+98248,MA55,Jesse J. Bailey,237694,828,Riverside,CA,United States
+98248,MA55,Ed Call,239961,868,Hansville,WA,United States
+98248,MA55,Steven Segura,256974,891,Bend,OR,United States
+98248,MA55,Mike Adams,258159,893,Calgary,AB,Canada
+98248,MA55,Dan Bolger,260523,865,Breckenridge,CO,United States
+98248,MA55,Nick Vasquez,262687,874,Benicia,CA,United States
+98248,MA55,Marc Ryno,273732,813,Chandler,AZ,United States
+98248,MA55,Burton Boeck,275520,886,Southlake,TX,United States
+98248,MA55,Biggin Turner,276669,852,Universal City,TX,United States
+98248,MA55,THOMAS MYERS,303252,820,BARTLESVILLE,OK,United States
+98248,MA55,Carl Messenger,305393,773,Boone,CO,United States
+98248,MA55,David Skinner,310207,560,Allendale,MI,United States
+98248,MA55,Hugh Durden,323514,786,Iron City,GA,United States
+98248,FA55,Angel Tauson,153791,836,Lexington,KY,United States
+98248,FA55,Sandi Seelke,212106,736,Austin,TX,United States
+98248,FA55,Trisha Ryno,267757,721,Chandler,AZ,United States
+98248,FA55,Shauna Rouleau,273702,754,Calgary,AB,Canada
+98248,FA55,Jennifer Soutar,283965,731,Calais,VT,United States
+98248,MA60,Mike Rayburne,9468,862,Burleson,TX,United States
+98248,MA60,Homer Clark,37302,843,Butler,PA,United States
+98248,MA60,Keith Mahan,40778,875,Loveland,CO,United States
+98248,MA60,Jeff Guidice,63734,893,Phoenix,AZ,United States
+98248,MA60,Steven Noonan Penton,99713,872,Boulder,CO,United States
+98248,MA60,Tom Henson,100852,933,San Antonio,TX,United States
+98248,MA60,Ted Henderson,103165,835,Corpus Christi,TX,United States
+98248,MA60,Dave Kalata,113071,914,Puyallup,WA,United States
+98248,MA60,Lou White,128825,890,Arvada,CO,United States
+98248,MA60,Gregory Torres,131882,867,Fairbanks,AK,United States
+98248,MA60,Greg Relyea,143576,900,Fort Worth,TX,United States
+98248,MA60,Bill Schmult,149712,897,Tuttle,OK,United States
+98248,MA60,James Bandy,151285,904,Los Angeles,CA,United States
+98248,MA60,Bruce Scherz,165254,894,Lago Vista,TX,United States
+98248,MA60,Gerry Krippner,190930,900,Vista,CA,United States
+98248,MA60,Phil Baumert,209304,849,Louisville,KY,United States
+98248,MA60,Darin Durham,215798,856,Bend,OR,United States
+98248,MA60,Christian Lachance,218085,900,Saint Jérôme,QC,Canada
+98248,MA60,Mark Spetsios,219489,896,Sarasota,FL,United States
+98248,MA60,Charles Waldrop,227139,871,Spring Hill,KS,United States
+98248,MA60,John Gensheimer,228197,916,Lexington,KY,United States
+98248,MA60,Mike Petrie,246570,814,Roscommon,MI,United States
+98248,MA60,Curtis Taft,254096,870,Springtown,TX,United States
+98248,MA60,Tim Toyota Adams,260857,896,Houston,TX,United States
+98248,MA60,Kenny Woods,271581,839,Hollister,CA,United States
+98248,MA60,Jag Gonzales,271836,795,Velarde,NM,United States
+98248,MA60,Maurice Rouleau,273701,835,Calgary,AB,Canada
+98248,MA60,Mike Filiau,277154,877,Citrus Heights,CA,United States
+98248,MA60,Larry Vandenbout,282731,852,Dexter,NM,United States
+98248,MA60,Russell Gardner,294610,764,Austin,TX,United States
+98248,MA60,Jim Burns,296805,865,Clifton Park,NY,United States
+98248,MA60,Ken Lantz,305048,889,Prattville,AL,United States
+98248,MA60,john huston,310101,888,Kelowna,BC,Canada
+98248,MA60,Bryan McKay,315656,860,Elgin,TX,United States
+98248,MA60,Daryl Durham,317429,876,Edmond,OK,United States
+98248,MA60,Mike Aldrich,318949,857,Wheat Ridge,CO,United States
+98248,MA60,Gregory Ensslen,322566,882,New Orleans,LA,United States
+98248,FA60,Lisa Millman,271682,738,Austin,TX,United States
+98248,MA65,Weslee Hale,9960,895,Ingleside,TX,United States
+98248,MA65,Michael Lennett,13623,807,manassas,VA,United States
+98248,MA65,Rich Beedle,29980,859,Plainfield,IN,United States
+98248,MA65,Dennis Bergin,37738,827,Acworth,GA,United States
+98248,MA65,Luis Mendez,42178,867,Las Cruces,NM,United States
+98248,MA65,Tim Reno,48365,863,Lutz,FL,United States
+98248,MA65,Stephen Shively,64202,910,Pueblo West,CO,United States
+98248,MA65,David Odom,76590,765,Azle,TX,United States
+98248,MA65,Brad Smith,129494,858,Cedar Park,TX,United States
+98248,MA65,Richard Kravitz,136451,852,Benicia,CA,United States
+98248,MA65,Douglas Banning,146668,831,Littleton,CO,United States
+98248,MA65,Dale Baynes,155985,848,Chesapeake,VA,United States
+98248,MA65,Paul Reinermann,162506,869,Goliad,TX,United States
+98248,MA65,John Laarz,202420,798,Bear,DE,United States
+98248,MA65,John Murray,204728,835,Edmond,OK,United States
+98248,MA65,Keri Sibley,209417,805,Fort Collins,CO,United States
+98248,MA65,Mark Ungerman,240095,781,Leander,TX,United States
+98248,MA65,Jim Craig,277181,887,Burnet,TX,United States
+98248,FA65,Robin Greene,206456,757,Fort Worth,TX,United States
+98248,MA70,Peter Martin,1490,875,San Mateo,CA,United States
+98248,MA70,Mike Davis,5908,837,San Antonio,TX,United States
+98248,MA70,Mark Hauser,13459,896,Santa Barbara,CA,United States
+98248,MA70,Steve West,23616,825,North Oaks,MN,United States
+98248,MA70,Daylon Oliver,36153,841,Elgin,TX,United States
+98248,MA70,John Roe,48615,855,Fairbanks,AK,United States
+98248,MA70,Michael Elmore,58671,838,Beulah,MI,United States
+98248,MA70,Bethel Barrett,90411,910,Rockvale,TN,United States
+98248,MA70,Mickey Gregg,91723,829,Lilburn,GA,United States
+98248,MA70,Lamont Bowden,101495,806,Wichita Falls,TX,United States
+98248,MA70,Ron Sherwood,103065,758,Missouri City,TX,United States
+98248,MA70,Jesus Sanchez,115005,852,Seguin,TX,United States
+98248,MA70,Terry Bibbs,163173,792,Dumfries,VA,United States
+98248,MA70,Charles Whitley,168823,815,Austin,TX,United States
+98248,MA70,Jeffrey Hale,239668,738,Corvallis,OR,United States
+98248,MA70,Tony Klaus,245447,832,Mesa,AZ,United States
+98248,MA70,Steve Thompson,269577,852,San Marcos,TX,United States
+98248,MA70,Walter Hess,289517,750,San Antonio,TX,United States
+98248,MA70,Kim Stevenson,289840,744,Farmington,UT,United States
+98248,MA70,Mark Hall,314869,716,Round Rock,TX,United States
+98248,MA70,Paul Bauer,318095,838,Longmont,CO,United States
+98248,MA70,Billy Parker,322331,853,Broussard,LA,United States
+98248,MA70,Roy Gilbert,330081,,Lipan,TX,United States
+98248,MA75,Kenneth Pascoe,60598,847,Napa,CA,United States
+98248,MA75,Lawrence Hoth,322435,608,Wauwatosa,WI,United States
+98248,FA75,Sandra Roach,263411,587,Hilton Head,SC,United States
+98248,MA2,Nick Kelly,7559,915,Austin,TX,United States
+98248,MA2,Nathan Hudgins,15005,870,Austin,TX,United States
+98248,MA2,Mathias Ejdetjärn,44936,890,Eskilstuna,,Sweden
+98248,MA2,Thomas Cavaliere,50593,825,Austin,TX,United States
+98248,MA2,Everett Jamison,57562,925,Pflugerville,TX,United States
+98248,MA2,Jeremy Stroud,58978,911,Hilliard,OH,United States
+98248,MA2,Jacob Walker,72205,921,Fort Collins,CO,United States
+98248,MA2,Oscar Jansson,74473,913,Eskilstuna,,Sweden
+98248,MA2,Case Vollink,75428,894,Fort Worth,TX,United States
+98248,MA2,Thomas Marshall,75778,919,North Chesterfield,VA,United States
+98248,MA2,Cody Phipps,77649,883,Austin,TX,United States
+98248,MA2,David Afraimi,85181,929,Los Gatos,CA,United States
+98248,MA2,Sky Nett,85922,919,Austin,TX,United States
+98248,MA2,Merick Grubbs,92018,901,Fort Worth,TX,United States
+98248,MA2,Albert Gordon,115460,891,Tacoma,WA,United States
+98248,MA2,Justin Moore,115462,917,Bonney Lake,WA,United States
+98248,MA2,Jacob Dinnella,118869,925,Atkins,IA,United States
+98248,MA2,Billy Pyfer,119704,923,Dickinson,ND,United States
+98248,MA2,Gary Ward,121035,897,Arvada,CO,United States
+98248,MA2,Jackson Johnson,121084,903,Tyrone,GA,United States
+98248,MA2,Gustav Eriksson,121663,924,Göteborg,,Sweden
+98248,MA2,Michael Nice,125559,900,Indianapolis,IN,United States
+98248,MA2,Matthew McGuirk,128127,915,Wesley Chapel,FL,United States
+98248,MA2,Justin Farrow,129483,911,Danville,VA,United States
+98248,MA2,William Peterson,129872,901,Crowley,TX,United States
+98248,MA2,Justin Ady,130145,921,Georgetown,KY,United States
+98248,MA2,Blake Fetzer,130442,906,Mercer Island,WA,United States
+98248,MA2,Carl-Magnus Bäckman,132766,903,Göteborg,,Sweden
+98248,MA2,Yilsun Chong,135174,917,Pflugerville,TX,United States
+98248,MA2,Bryce Weaver,138963,925,Felton,DE,United States
+98248,MA2,Tyler Williams,139732,919,Salem,VA,United States
+98248,MA2,Gavin Galloway,140350,903,North Reading,MA,United States
+98248,MA2,Scott Wheeler,140610,934,Columbia,MD,United States
+98248,MA2,Braiden Schweitzer,141250,912,Denver,CO,United States
+98248,MA2,Graham Smith,142864,911,Nolensville,TN,United States
+98248,MA2,Yannick Albert,144417,913,richmond,VA,United States
+98248,MA2,Bo Roth,145184,913,Austin,TX,United States
+98248,MA2,Sean Terrillion,147019,901,Phoenix,AZ,United States
+98248,MA2,David Morgan,148470,907,Blue Mound,TX,United States
+98248,MA2,Andrew Cuzco,150144,910,Fulton,TX,United States
+98248,MA2,Rob Cyr,150889,894,Olympia,WA,United States
+98248,MA2,Brady Gardner,152542,903,Lisbon,ME,United States
+98248,MA2,Dougie Williams,152596,927,San Diego,CA,United States
+98248,MA2,David Vitt,159479,921,Carrollton,VA,United States
+98248,MA2,Christopher Swenson,161435,896,Keller,TX,United States
+98248,MA2,Slayton Duncan,162457,900,Madison,MS,United States
+98248,MA2,Adrian Atman,165578,913,Snohomish,WA,United States
+98248,MA2,Ben Sherwood,166664,895,Meadows Place,TX,United States
+98248,MA2,Michael Kenyon,171091,875,Seattle,WA,United States
+98248,MA2,Miguel Guerrero,171150,922,Georgetown,TX,United States
+98248,MA2,Cody Cleek,173887,909,El Cajon,CA,United States
+98248,MA2,David Kreps,175513,901,San Antonio,TX,United States
+98248,MA2,Jacob Colley,180406,918,Austin,TX,United States
+98248,MA2,Josh Chodack,180437,898,Danbury,CT,United States
+98248,MA2,Keith Wilson,182202,905,Richland,WA,United States
+98248,MA2,Gavin Brunsman,182737,888,Santa Clara,CA,United States
+98248,MA2,Miles Galloway,184575,908,North Reading,MA,United States
+98248,MA2,Zachary Colton,187012,914,El Cajon,CA,United States
+98248,MA2,Trenton Bright,188693,902,Dothan,AL,United States
+98248,MA2,Matthew Grabowski,194049,905,Lakeland,FL,United States
+98248,MA2,Luke Gallagher,194366,901,Pittsburgh,PA,United States
+98248,MA2,Zedekiah Farrow,196126,883,Danville,VA,United States
+98248,MA2,Trevor Bryant,197154,908,Irving,TX,United States
+98248,MA2,Justin Woods,198113,915,Vancouver,WA,United States
+98248,MA2,David Ach,202262,870,Stevensville,MT,United States
+98248,MA2,Tanner Hughes,206653,917,Lincoln,NE,United States
+98248,MA2,Michael Martin,208681,900,Haltom City,TX,United States
+98248,MA2,Ian Williamson,209823,910,Silverdale,WA,United States
+98248,MA2,Brad Hummel,210063,927,Pasco,WA,United States
+98248,MA2,Kodie Lawrence,215477,901,Windsor,CO,United States
+98248,MA2,Daniel Freeberg,218511,897,Pflugerville,TX,United States
+98248,MA2,Michael Ridingson,219186,877,Lakewood,CO,United States
+98248,MA2,Brian Spain,224257,910,Quilcene,WA,United States
+98248,MA2,Bennett Hightower,224280,928,Richmond,VA,United States
+98248,MA2,Drake Smith,225625,915,Columbus,OH,United States
+98248,MA2,Tucker Lamberton,229266,912,Missoula,MT,United States
+98248,MA2,Quincy Burnett,231787,876,Houston,TX,United States
+98248,MA2,Jared Herring,233503,913,Longmont,CO,United States
+98248,MA2,Rey Mendez,234138,899,Hutto,TX,United States
+98248,MA2,Bryson Wolf,234751,892,Round Rock,TX,United States
+98248,MA2,Nathan Munster,235752,925,Manhattan,NY,United States
+98248,MA2,Rylan Rash,236988,913,San Antonio,TX,United States
+98248,MA2,Chad Gautney,239171,926,Daphne,AL,United States
+98248,MA2,Daniel Gonzalez,239326,912,Selma,TX,United States
+98248,MA2,Adam Bonnell,240551,912,Kyle,TX,United States
+98248,MA2,Noah Kramer,241506,910,Santa Fe,NM,United States
+98248,MA2,Greg McDade,241521,891,Georgetown,TX,United States
+98248,MA2,Carl Messenger,242533,892,Pueblo,CO,United States
+98248,MA2,Shawn Otero,242544,798,Pueblo,CO,United States
+98248,MA2,David Martinez,243295,905,San Antonio,TX,United States
+98248,MA2,Eric Watson,244850,927,Bulverde,TX,United States
+98248,MA2,Travis Leszczynski,245164,903,Villas,NJ,United States
+98248,MA2,Ben Prange,246611,933,Fenton,MO,United States
+98248,MA2,Cody Swingle,251366,889,Denver,CO,United States
+98248,MA2,Lawrence Mannix,255179,911,San Antonio,TX,United States
+98248,MA2,Cameron Perez,256927,889,The Dalles,OR,United States
+98248,MA2,Jared Aukema,257247,917,St Albert,AB,Canada
+98248,MA2,Ian Dahlen Flor,260374,896,Salt Lake City,UT,United States
+98248,MA2,Adrian Vigil,261586,886,Lakewood,WA,United States
+98248,MA2,Thomas Brumley,262599,895,Pflugerville,TX,United States
+98248,MA2,Michael Boggs,263422,898,Chandler,AZ,United States
+98248,MA2,Quentin Boggs,263424,894,Chandler,AZ,United States
+98248,MA2,Tyler King,264023,902,Round Rock,TX,United States
+98248,MA2,Seth Hutchinson Lydon,264668,879,Cincinnati,OH,United States
+98248,MA2,Kevin Kunkel,266320,872,Austin,TX,United States
+98248,MA2,Greg May,266943,916,Olathe,KS,United States
+98248,MA2,Nathan Harris,267467,902,Calera,AL,United States
+98248,MA2,Brian Carlson,267851,912,Lynn,MA,United States
+98248,MA2,Justin Mann,268267,917,Spring Grove,PA,United States
+98248,MA2,Keegan M. Swihart,268956,902,Denver,CO,United States
+98248,MA2,Jeremy Gurvine,269063,891,Saint Anthony,ID,United States
+98248,MA2,Michael Ho,269542,926,San Diego,CA,United States
+98248,MA2,Tiegan Pacheco,272065,928,Abilene,TX,United States
+98248,MA2,Nathaniel Dalton,274593,932,New Braunfels,TX,United States
+98248,MA2,Michael Protch,274795,921,Pittsburgh,PA,United States
+98248,MA2,Jay-Bird Godfrey,275358,891,Beaumont,TX,United States
+98248,MA2,Ricardo Camas,275920,915,Weatherford,TX,United States
+98248,MA2,Zachariah Johnson,276352,901,Austin,TX,United States
+98248,MA2,Peter Roguski,278446,930,San Jose,CA,United States
+98248,MA2,Cale Bombardier,279372,914,Essex Junction,VT,United States
+98248,MA2,Karik Wise,280156,878,Kingstree,SC,United States
+98248,MA2,Tyler Smith,281567,908,,,
+98248,MA2,Kolby Osborn,283471,928,Pflugerville,TX,United States
+98248,MA2,Hunter Alexander,284865,900,Madison,AL,United States
+98248,MA2,M Farris,288333,847,Pflugerville,TX,United States
+98248,MA2,Ahren Velasco,288466,888,Phoenix,AZ,United States
+98248,MA2,Joshua Kmit,289175,892,Olathe,KS,United States
+98248,MA2,Hunter Zsolzai,289690,910,Abilene,TX,United States
+98248,MA2,Ernest Estrada,290153,904,San Antonio,TX,United States
+98248,MA2,Ethan Vargo,291368,892,Hopkins,SC,United States
+98248,MA2,Ryan Gynan,293614,912,Palm Coast,FL,United States
+98248,MA2,Alex Pellizzari,293654,893,Syracuse,NY,United States
+98248,MA2,Daniel Wallace,294570,894,Roswell,GA,United States
+98248,MA2,Mike Brown,294589,888,Stevensville,MT,United States
+98248,MA2,Austin Uetrecht,298218,895,Wentzville,MO,United States
+98248,MA2,Sadid Khan,298589,914,Baltimore,MD,United States
+98248,MA2,Joseph Carlisto,301598,919,Chelsea,AL,United States
+98248,MA2,Jake Ayala,301777,893,Longmont,CO,United States
+98248,MA2,Miguel Morales,302689,911,The Colony,TX,United States
+98248,MA2,Austin Lawless,304853,917,Ballwin,MO,United States
+98248,MA2,Oberon Pacheco,305329,885,Bellingham,WA,United States
+98248,MA2,Jesse Clearwater,305330,915,Brattleboro,VT,United States
+98248,MA2,Dylan Krueger,306012,912,Rosemount,MN,United States
+98248,MA2,Stephen Cullinan,307358,919,Morgantown,WV,United States
+98248,MA2,Jair Torres,308274,903,Austin,TX,United States
+98248,MA2,Cody MacIntosh,310980,873,North Reading,MA,United States
+98248,MA2,Noah Margulies,311328,898,San Francisco,CA,United States
+98248,MA2,Aidan Buck,313071,898,Burleson,TX,United States
+98248,MA2,Jonathan Malmanger,314625,933,newauburn,WI,United States
+98248,MA2,Ezra Johnson,314878,926,Washougal,WA,United States
+98248,MA2,Daniel Schwab,316070,900,Wentzville,MO,United States
+98248,MA2,Connor Wilson,317376,901,Westminster,CO,United States
+98248,MA2,Brian Connors,318068,915,Eugene,OR,United States
+98248,MA2,Cody Lugo,320414,901,Converse,TX,United States
+98248,MA2,Christian “DiscSniper” Manoleas,321290,921,Frisco,TX,United States
+98248,MA2,Elliott Barnes,322373,898,Hartselle,AL,United States
+98248,MA2,taylor cosper,327233,883,girdwood,AK,United States
+98248,MA2,Creighton Tisdale,327475,924,Westminster,CO,United States
+98248,MA2,Karston Venema,327848,885,Pinesdale,MT,United States
+98248,MA2,ben cosper,331310,819,girdwood,AK,United States
+98248,MA2,Violence Sturdevant,331861,880,Porter Corners,NY,United States
+98248,MA2,Toben Dolenc,331991,869,Longmont,CO,United States
+98248,FA2,Victoria Salter,261577,804,Pensacola,FL,United States
+98248,FA2,Kimberly Persad,270791,820,Aransas Pass,TX,United States
+98248,FA2,Kat Von D,284109,820,,,
+98248,FA2,Bridget Short,305003,809,Haltom City,TX,United States
+98248,FA2,Meagan Saylors,315821,779,Corpus Christi,TX,United States
+98248,FA2,Andreanna Brown,325954,779,Lakewood,CO,United States
+98248,MA3,Joseph Royer,32207,877,,,
+98248,MA3,Thomas Guillot,32483,892,Wharton,TX,United States
+98248,MA3,Bryan Sutton,37608,894,Hoover,AL,United States
+98248,MA3,Shane Elmore,93843,893,Fort Worth,TX,United States
+98248,MA3,John Lonardo III,98664,872,Vernon,VT,United States
+98248,MA3,Josh Rosa,99626,862,Bogeysville,CO,United States
+98248,MA3,Will Wood,104585,867,Saint Joseph,MO,United States
+98248,MA3,Sean Mael,108661,880,Columbia,MO,United States
+98248,MA3,Brandon Armstrong,113474,888,Van Buren,AR,United States
+98248,MA3,Kris Hansen,128600,860,Magnolia,TX,United States
+98248,MA3,Bryce Jump,130200,896,Lexington,KY,United States
+98248,MA3,Jeff Brady,133415,878,MERCER ISLAND,WA,United States
+98248,MA3,Dillon Donnelly,136920,880,Neenah,WI,United States
+98248,MA3,Cody Ratliff,138604,877,Jefferson,OR,United States
+98248,MA3,Forrest Furbush,138779,865,Marysville,WA,United States
+98248,MA3,Michael Rahn,142056,884,Virginia Beach,VA,United States
+98248,MA3,James Fischer,145711,857,Indianapolis,IN,United States
+98248,MA3,Bo Nice,148733,883,Peru,IN,United States
+98248,MA3,Hayden Lee Stone,152676,871,San Diego,CA,United States
+98248,MA3,Robert Osteen,154931,899,Anna,TX,United States
+98248,MA3,Sam SlapaBaby Reyes,154964,871,Houston,TX,United States
+98248,MA3,Joey Crumbles,156990,881,San Jose,CA,United States
+98248,MA3,Jaddy Khan,157898,859,Goodyear,AZ,United States
+98248,MA3,Todd Siebold,160749,899,San Antonio,TX,United States
+98248,MA3,Tyler Milton,164899,897,Cambridge,OH,United States
+98248,MA3,Ryan Sweeney,166639,883,Castleton,VT,United States
+98248,MA3,Christopher Griswold,173203,885,Warwick,RI,United States
+98248,MA3,Bowdy Carroll,178994,879,Fort Worth,TX,United States
+98248,MA3,Raymond Sabatino,183738,871,San Antonio,TX,United States
+98248,MA3,Joshua Purnell,186130,864,Antioch,TN,United States
+98248,MA3,Caleb Chandler,197286,871,Lansdale,PA,United States
+98248,MA3,Grayson Tackett,198614,899,San Antonio,TX,United States
+98248,MA3,Rick Myre,199708,894,Grass Valley,CA,United States
+98248,MA3,Andrew Palmer,200550,891,North Richland Hills,TX,United States
+98248,MA3,Michael Short,201681,893,Fort Worth,TX,United States
+98248,MA3,Tony Serna,202654,886,Grand Jct,CO,United States
+98248,MA3,Seth Folley,203258,873,San Antonio,TX,United States
+98248,MA3,Daniel Ly,204309,899,North Wales,PA,United States
+98248,MA3,Shaun Woods,206033,887,Canby,OR,United States
+98248,MA3,Keith Wilkens,208233,889,Boyden,IA,United States
+98248,MA3,Josh Elkins,212413,865,Tempe,AZ,United States
+98248,MA3,Peter Jackson,213443,887,Douglas,AK,United States
+98248,MA3,Tim Secoy,214707,878,Wheelersburg,OH,United States
+98248,MA3,Brandon Clark,218797,880,Bellevue,WA,United States
+98248,MA3,Jeff Tschoepe,220600,887,Azle,TX,United States
+98248,MA3,Justin Fischer,222053,876,Leander,TX,United States
+98248,MA3,Carlos Oviedo,222795,874,Warwick,RI,United States
+98248,MA3,Tyler Gifford,224614,869,Colorado Springs,CO,United States
+98248,MA3,Christian Curry,229052,877,Red River,NM,United States
+98248,MA3,Keith Pettit,231749,875,Villas,NJ,United States
+98248,MA3,Ben Hassey,232434,852,Portland,OR,United States
+98248,MA3,Keith Krumrei,232578,867,York,NE,United States
+98248,MA3,Prashanth Ramaswamy,233591,882,Waterloo,IA,United States
+98248,MA3,Ashtonn Persons,233764,863,Round Rock,TX,United States
+98248,MA3,Justin McCray,235872,894,Fort Worth,TX,United States
+98248,MA3,Phillip Garcia,236211,862,Cibolo,TX,United States
+98248,MA3,Tim Herron,236574,885,North Richland Hills,TX,United States
+98248,MA3,Dana Beach,238028,867,Aransas Pass,TX,United States
+98248,MA3,Lance Price,239137,887,Mobile,AL,United States
+98248,MA3,Brian Anderson,240237,867,Oceanside,CA,United States
+98248,MA3,Brian Williams,240284,882,Glen Allen,VA,United States
+98248,MA3,Jeremy Clay,242585,888,Centennial,CO,United States
+98248,MA3,Cole Hulce,244012,871,Fort Worth,TX,United States
+98248,MA3,Bryan Cantin,244033,892,Houston,TX,United States
+98248,MA3,Steven Wall,245352,867,San Antonio,TX,United States
+98248,MA3,Austin Sanderson,245366,895,Lake Odessa,MI,United States
+98248,MA3,Cameron Paris,247975,865,Covington,GA,United States
+98248,MA3,John Berry,253185,878,Bolingbrook,IL,United States
+98248,MA3,Tyler Wilson,254893,875,Decatur,TX,United States
+98248,MA3,Colten Tucker,256287,887,Atchison,KS,United States
+98248,MA3,Zachary Kirby,256870,865,IMLAY CITY,MI,United States
+98248,MA3,Jonathan Pietrkiewicz,257090,859,Brocton,NY,United States
+98248,MA3,Anthony Taylor,257821,864,Merritt Island,FL,United States
+98248,MA3,Dustin Bowers,257824,882,Merritt Island,FL,United States
+98248,MA3,Joshua Harrison,258511,895,Pooler,GA,United States
+98248,MA3,Patrick Apodaca,260084,894,Los Altos,CA,United States
+98248,MA3,Ryan Schmidt,266985,871,Lamar,CO,United States
+98248,MA3,Lloyd Mosley,267932,865,Tioga,ND,United States
+98248,MA3,Chad Cooper,268501,869,Albuquerque,NM,United States
+98248,MA3,Dillan Wornkey,268598,899,Rapid City,SD,United States
+98248,MA3,Erik-John Salazar,269129,859,Stanwood,WA,United States
+98248,MA3,Daniel Batoon,270134,862,Austin,TX,United States
+98248,MA3,Jesse Stillwagon,270561,877,Newfane,VT,United States
+98248,MA3,Daniel Beck,270939,870,,,
+98248,MA3,Eamon Foster,272651,881,Queensbury,NY,United States
+98248,MA3,Rollins Grubbs,273583,852,Dupont,WA,United States
+98248,MA3,Hunter Collins,273956,883,Providence,NC,United States
+98248,MA3,John Manoleas,274437,864,Oak Point,TX,United States
+98248,MA3,Chris Sanders,274695,893,Saint Louis,MO,United States
+98248,MA3,Nolan Smith,274902,886,South Burlington,VT,United States
+98248,MA3,Joseph Radosevich,275236,896,Tucson,AZ,United States
+98248,MA3,Alec Kneer,275593,883,St. Louis,MO,United States
+98248,MA3,Andres Espinosa,277840,877,Millersville,MD,United States
+98248,MA3,Liam Shepard,278614,887,Lexington,KY,United States
+98248,MA3,Chris Carpenter,283740,899,Lincoln,NE,United States
+98248,MA3,Alex Bartlett,283827,879,Jarrell,TX,United States
+98248,MA3,Chris Murone,284968,892,Henrico,VA,United States
+98248,MA3,John Hardie,285541,898,Frisco,TX,United States
+98248,MA3,Andi Sandoval,286523,879,Yakima,WA,United States
+98248,MA3,Raine Copeland,286598,887,Carrollton,TX,United States
+98248,MA3,Derek Ashenbramer,287432,896,Lincoln,NE,United States
+98248,MA3,Kyler Gronewald,287576,890,Fairmont,MN,United States
+98248,MA3,Jose Mesa Jr,288112,887,Yakima,WA,United States
+98248,MA3,Jack Oliver,288217,871,League City,TX,United States
+98248,MA3,Taustin Harrington,288949,822,Carrington,ND,United States
+98248,MA3,Bryan Herschberger,289119,891,Marshalltown,IA,United States
+98248,MA3,Lathen Smith,289940,881,Georgetown,TX,United States
+98248,MA3,Brian Ender,291034,887,Round Rock,TX,United States
+98248,MA3,Wesley Young,291383,892,Stayton,OR,United States
+98248,MA3,Grant Noordsy,292229,896,Sioux Falls,SD,United States
+98248,MA3,Thomas Lass,292336,844,Gillette,WY,United States
+98248,MA3,Justyn Barton,292956,839,Silverthorne,CO,United States
+98248,MA3,David Lass,293794,845,Casper,WY,United States
+98248,MA3,Blake Wynn,293901,882,Pollock,LA,United States
+98248,MA3,Tejay Furges,294121,859,Basalt,CO,United States
+98248,MA3,Nick Rathman,294159,856,Brandon,SD,United States
+98248,MA3,Liam Spillane,294442,875,Lynchburg,VA,United States
+98248,MA3,Anthony Perez,294563,887,Roswell,GA,United States
+98248,MA3,Lee Brown,294781,886,Manchester,NH,United States
+98248,MA3,Brian Dempster,296218,847,Owasso,OK,United States
+98248,MA3,Chris Dempster,296219,879,Owasso,OK,United States
+98248,MA3,Quinn Long,297013,862,Round Rock,TX,United States
+98248,MA3,Kenny Houser,297877,863,Rogers,AR,United States
+98248,MA3,Archie Ioannides,298576,860,Missoula,MT,United States
+98248,MA3,Adam Purkey,298795,877,Kent,WA,United States
+98248,MA3,Carl Wenger,298932,865,Citrus Heights,CA,United States
+98248,MA3,Mason Raymond,299306,890,Lindsay,ON,Canada
+98248,MA3,Bob Troia,299429,830,Austin,TX,United States
+98248,MA3,Randy Brunson,300409,884,Missoula,MT,United States
+98248,MA3,Maurice Jackson,300665,850,La mesa,CA,United States
+98248,MA3,Ronald Chavez,301375,830,SAN ANGELO,TX,United States
+98248,MA3,Jake Todd,302118,898,Gainesville,FL,United States
+98248,MA3,Chaney “Chains” Moore,302678,874,The Woodlands,TX,United States
+98248,MA3,DE'ANTHONY THOMAS,303245,888,,,
+98248,MA3,Nicholas Bosley,303271,882,Crowley,TX,United States
+98248,MA3,Michael Hernandez,303272,853,San Antonio,TX,United States
+98248,MA3,Jay Allen,303639,884,San Diego,CA,United States
+98248,MA3,Jordan Flor,303910,881,Supply,NC,United States
+98248,MA3,Faust Rochin,304529,893,Tucson,AZ,United States
+98248,MA3,JUAN M RUIZ Jr,304841,856,CRYSTAL LAKE,IL,United States
+98248,MA3,Pete Donley,305743,864,Oregon City,OR,United States
+98248,MA3,Kyle Fortner,305874,894,Rainsville,AL,United States
+98248,MA3,Ty Heuer,307245,898,Menomonie,WI,United States
+98248,MA3,Tyler Cade,307359,848,Lebanon,OR,United States
+98248,MA3,Edward Williams,307549,879,Liberty,MO,United States
+98248,MA3,Jacob Valdez,307708,861,Albuquerque,NM,United States
+98248,MA3,Joshua Ordonez,308689,897,King George,VA,United States
+98248,MA3,Carlos Alejandro Pena Jimenez,308736,891,BROOKLYN,NY,United States
+98248,MA3,Nathaniel Fakler,309552,858,Milwaukee,WI,United States
+98248,MA3,Cyrus Deeds,309614,899,Austin,TX,United States
+98248,MA3,Lucius Stalworth,309824,867,Round Rock,TX,United States
+98248,MA3,Aaron Dittmann,310736,894,San Diego,CA,United States
+98248,MA3,Dominiq Reagh,310903,896,Kentwood,MI,United States
+98248,MA3,Taylor Smith,310927,877,Kellyville,OK,United States
+98248,MA3,Rudy De La Cruz III,310993,865,San Angelo,TX,United States
+98248,MA3,Mason Burton,311200,877,longview,WA,United States
+98248,MA3,Noah Cooke,311968,854,North Battleford,SK,Canada
+98248,MA3,Oliver Vestergaard,312471,877,Austin,TX,United States
+98248,MA3,Daniel Thompson,312505,826,Lyndonville,VT,United States
+98248,MA3,Ryan Catino,315685,887,Sioux Falls,SD,United States
+98248,MA3,Alexander Marks,315746,896,Arlington,TX,United States
+98248,MA3,Austin Siegel,315873,857,Coldwater,MI,United States
+98248,MA3,Austin George,316407,842,Soldotna,AK,United States
+98248,MA3,Quinn Isler,316560,893,Rapid City,SD,United States
+98248,MA3,Hall O'Neal,316725,892,Marietta,GA,United States
+98248,MA3,Riley Howell,316961,835,Springtown,TX,United States
+98248,MA3,Max Bravo,317531,853,Orlando,FL,United States
+98248,MA3,Damon Underwood,317796,858,Wilmington,NC,United States
+98248,MA3,Ryan Merrigan,317998,865,Leander,TX,United States
+98248,MA3,Nicholas Dodge,318157,851,Sumner,WA,United States
+98248,MA3,Micah Boutin,318655,849,Keizer,OR,United States
+98248,MA3,Benjamin Gettig,320082,867,Austin,TX,United States
+98248,MA3,Benjamin Cook,321217,828,Denver,CO,United States
+98248,MA3,Brian Zurlinden,321245,885,San Antonio,TX,United States
+98248,MA3,Chase Harper,321549,819,Manchester,TN,United States
+98248,MA3,Nick Wilson,321683,892,Ogden,UT,United States
+98248,MA3,Christopher Carnes,323693,869,The Colony,TX,United States
+98248,MA3,AJ Calder,323852,864,Santa Fe,NM,United States
+98248,MA3,Patrick O'Connell,323876,869,Colorado Springs,CO,United States
+98248,MA3,Blake Fisher,324097,854,Richardson,TX,United States
+98248,MA3,Ferris Owens,324208,891,Lubbock,TX,United States
+98248,MA3,Luc Cohen-Wanis,324228,892,Winooski,VT,United States
+98248,MA3,Nicholas Hon,324341,850,San Diego,CA,United States
+98248,MA3,Joshua Santos,324622,863,Cedar Park,TX,United States
+98248,MA3,Devon White,324912,899,Fort worth,TX,United States
+98248,MA3,Dalton Trejo,325911,860,Richland Hills,TX,United States
+98248,MA3,Aaron Harlow,325956,861,Scottsdale,AZ,United States
+98248,MA3,Jakob Stabile,326215,881,Frisco,CO,United States
+98248,MA3,Nickolas Henkes,326814,875,Escondido,CA,United States
+98248,MA3,Kendall Dorn,326922,860,Chippewa Falls,WI,United States
+98248,MA3,ERIC YOUNG,327148,897,Hamilton,AL,United States
+98248,MA3,Chase Atkinson,329269,865,Waco,TX,United States
+98248,MA3,Noah Morris,329280,865,Abilene,TX,United States
+98248,MA3,David Opsahl,329508,838,Crestview,FL,United States
+98248,MA3,Ethan Burke,329980,877,Colorado Springs,CO,United States
+98248,MA3,Phoenix Feathers,330033,898,Fort Worth,TX,United States
+98248,MA3,Kellan Brooke,331155,864,Spanish Fork,UT,United States
+98248,MA3,Cruz Brooks,331981,854,North Platte,NE,United States
+98248,FA3,Kelly Knapp,4516,729,Fort Worth,TX,United States
+98248,FA3,Christina Morehouse Reyes,221902,740,Houston,TX,United States
+98248,FA3,Taylor Harris,270313,746,Calera,AL,United States
+98248,FA3,Teri Lingane,278540,764,Denver,CO,United States
+98248,FA3,Tiffany Reed,294171,728,San Diego,CA,United States
+98248,FA3,Katherine Fike,297389,737,Meraux,LA,United States
+98248,FA3,Virginia Wall,317085,721,San Antonio,TX,United States
+98248,FA3,Courtney Retzloff,320603,754,Selma,TX,United States
+98248,FA3,Zoe Bishop,321374,766,Wentzville,MO,United States
+98248,FA3,Brittany Tucker,322138,751,Warrenton,MO,United States
+98248,FA3,Nicola Lornson,328316,755,Spruce Grove,AB,Canada
+98248,MA4,Michael Ford,27403,841,Louisville,KY,United States
+98248,MA4,Brian Kidwell,60942,805,Fort Jennings,OH,United States
+98248,MA4,Michael Martin,116739,780,colorado springs,CO,United States
+98248,MA4,Joel Gleghorn,150973,802,Bothell,WA,United States
+98248,MA4,Dave Basham,157897,836,Surprise,AZ,United States
+98248,MA4,Riley Densley,159477,839,West Haven,UT,United States
+98248,MA4,Aaron Parker,161334,838,San Antonio,TX,United States
+98248,MA4,Michael Thompson,161383,785,San Antonio,TX,United States
+98248,MA4,Manny Castellanos,182924,820,Stevensville,MT,United States
+98248,MA4,Andrew Gibbons,184616,838,Windcrest,TX,United States
+98248,MA4,Stu Clary,196779,840,Vacaville,CA,United States
+98248,MA4,Billy Smith,201639,824,Yelm,WA,United States
+98248,MA4,Chris Canan,204643,845,Slidell,LA,United States
+98248,MA4,Stephen Brennan,205218,813,Georgetown,TX,United States
+98248,MA4,Clinton Wadsworth,207129,848,Springtown,TX,United States
+98248,MA4,Rob Smith,213517,832,Alvin,TX,United States
+98248,MA4,Greg Knapp,232311,753,Fort Worth,TX,United States
+98248,MA4,Justin Demastus,234825,805,Muscle Shoals,AL,United States
+98248,MA4,Kyle Smith,236252,815,Richmond,VA,United States
+98248,MA4,Christopher Delano,239884,837,Livingston,TX,United States
+98248,MA4,Allen Strickland,242490,825,Charlotte,NC,United States
+98248,MA4,Joshua Hebert,248645,819,Lafayette,LA,United States
+98248,MA4,Gary Pugh,249367,797,Williamsburg,VA,United States
+98248,MA4,Ezra Chaney,255187,843,Austin,TX,United States
+98248,MA4,Wolf Morris,257208,829,Atchison,KS,United States
+98248,MA4,Reid Halvorson,257696,820,Arena,WI,United States
+98248,MA4,Nate Howe,259716,822,Santa Fe,NM,United States
+98248,MA4,Christopher Blanco,268215,808,Gering,NE,United States
+98248,MA4,James Cornwell,268654,828,Galloway,OH,United States
+98248,MA4,Floyd Banks,273348,842,Austin,TX,United States
+98248,MA4,Seth Nichols,273563,819,Broken arrow,OK,United States
+98248,MA4,Paymon Rayetparvar,275671,845,Austin,TX,United States
+98248,MA4,Jeffrey Poplawski,278723,779,Barre,VT,United States
+98248,MA4,Ryan Christensen,279930,834,Milwaukee,WI,United States
+98248,MA4,Jackie Sullivan,280815,845,Haskell,OK,United States
+98248,MA4,Frank Herring,282516,846,Converse,TX,United States
+98248,MA4,Andrew O'Neal,283967,832,Commerce City,CO,United States
+98248,MA4,Matthew Lanctot,286641,835,Randolph,VT,United States
+98248,MA4,Jeremy Albers,287431,837,Lincoln,NE,United States
+98248,MA4,Andrew DeMoss,288776,828,Lincoln,NE,United States
+98248,MA4,Jared Curry,289828,838,Charlotte,NC,United States
+98248,MA4,Joshua Hillier,295483,767,League City,TX,United States
+98248,MA4,Alex Estrada,297456,824,Oklahoma City,OK,United States
+98248,MA4,Jeremy Knight,302786,843,Springtown,TX,United States
+98248,MA4,Will Chesnut,306734,844,leesburg,AL,United States
+98248,MA4,Eric Rhine,307407,810,Colfax,WI,United States
+98248,MA4,Trevor Perla,308204,731,Tifton,GA,United States
+98248,MA4,Jeremy Griffin,309303,829,Frankfort,IL,United States
+98248,MA4,Xavier Coronado,310404,847,Abilene,TX,United States
+98248,MA4,"Loyd ""Boss Hawg"" Guillot",310434,843,Houston,TX,United States
+98248,MA4,David Hicks,312250,828,Pflugerville,TX,United States
+98248,MA4,Peter Cousino,312423,823,Huntington,VT,United States
+98248,MA4,Andronicus Scott,312637,844,Shreveport,LA,United States
+98248,MA4,Eric Maldonado,314058,815,Granbury,TX,United States
+98248,MA4,John Gonzalez,315790,828,Corpus Christi,TX,United States
+98248,MA4,Patrick Doolin,316480,809,Indianapolis,IN,United States
+98248,MA4,Noor Williams,316498,828,Apopka,FL,United States
+98248,MA4,Austen Dockens,317166,826,Charlestown,IN,United States
+98248,MA4,Pablo Cantu,317459,831,Houston,TX,United States
+98248,MA4,Jay Bravo,317714,842,Tampa,FL,United States
+98248,MA4,Tim Mael,319043,762,Excelsior Springs,MO,United States
+98248,MA4,Kevin Jennings,319120,849,FORNEY,TX,United States
+98248,MA4,Christopher L Megles,320502,826,Phoenix,AZ,United States
+98248,MA4,Cooper (Berg) Flynn,321159,839,New Port Richey,FL,United States
+98248,MA4,Abrahim Aweshah,321280,845,Tampa,FL,United States
+98248,MA4,Dustyn Ates,321378,804,Shreveport,LA,United States
+98248,MA4,Daniel Phillips,321417,843,Shreveport,LA,United States
+98248,MA4,Justin Luedtke,321998,841,Leander,TX,United States
+98248,MA4,Blake Bertrand,322747,825,Keithville,LA,United States
+98248,MA4,Jody Boring,323715,821,Santa Fe,NM,United States
+98248,MA4,Derek Sutherland,323748,832,Red River,NM,United States
+98248,MA4,Drew Bynum,324059,806,Hot springs,AR,United States
+98248,MA4,Kolt Gifford,324321,773,Colorado Springs,CO,United States
+98248,MA4,Andy Ros,324640,841,SeaTac,WA,United States
+98248,MA4,Aidan Hall,324761,812,Lapeer,MI,United States
+98248,MA4,Adam Byrnes,327284,833,Des Moines,IA,United States
+98248,MA4,Ashton Bright,328376,809,Ozark,AL,United States
+98248,MA4,Wyatt West,331492,822,Frisco,TX,United States
+98248,MA4,Ezra Maddox,332431,,Pinson,AL,United States
+98248,MA4,Kendall Anderson,332618,835,Cushing,OK,United States
+98248,MA4,Alan Henke,333248,730,Albuquerque,NM,United States
+98248,FA4,Bridgette Dempsey,148388,705,Williamsburg,VA,United States
+98248,FA4,LaDonna Bishop,202655,712,Grand Junction,CO,United States
+98248,FA4,April Hernandez,272435,643,Bastrop,TX,United States
+98248,FA4,Amy Rein,289117,643,,,
+98248,FA4,Esther Hermanson,291541,698,Milwaukee,WI,United States
+98248,FA4,Rachel Sutton,304700,697,Hoover,AL,United States
+98248,FA4,Christie Nguyen,309174,656,Azle,TX,United States
+98248,FA4,Hannah Blackburn,311123,673,Northfield,NH,United States
+98248,FA4,Jaimie Galligan,313355,694,Bedford,TX,United States
+98248,FA4,Whitney Dailey,325957,719,Gilbert,AZ,United States

@@ -11,11 +11,11 @@
 | 2023 | 12 | 67158, 67159, 67160, 67161, 67514, 67713, 67796, 68282, 68349, 68642, 68786, 68805 | None |
 | 2024 | 12 | 77672, 77674, 77909, 77695, 76286, 78661, 78807, 78862, 78961, 79122, 79898, 79942 | None |
 | 2025 | 12 | 87899, 87900, 88027, 88189, 86523, 88944, 90019, 90283, 90932, 91169, 91399, 91411 | None |
-| 2026 | 12 | 98155, 98157, 98161, 98162, 98220, 97998, 98242, 98252, 98424, 98313, 98254, 98262 | None (98262 is the tour finals, October 10-11) |
+| 2026 | 12 | 98155, 98157, 98161, 98162, 98220, 97998, 98242, 98252, 98424, 98313, 98254, 98262 | None |
 
 ## Scrape progress
 
-Last scraped October 5, 2026, with `python -m dgvt_styles.scrape` (formerly `scrape-pdga-live.py`). All 93 events in the CSV were scraped except the 2026 Vermont State Championship (98262), which hasn't been played yet. Each season has its own folder:
+Last scraped October 11, 2026, with `python -m dgvt_styles.scrape` (formerly `scrape-pdga-live.py`). All 93 events in the CSV are scraped, including the 2026 Vermont State Championship (98262), which was played October 10-11. Each season has its own folder:
 
 ```
 data/<year>/
@@ -28,7 +28,7 @@ To re-run a season, pass that season's event IDs from the CSV with `--data-dir d
 
 | Season | Events | With hole scores | Player-rounds | Usable rounds | Hole scores | Event-time rating |
 |---|---|---|---|---|---|---|
-| 2026 | 11 | 11 | 3,381 | 3,349 | 60,331 | 98% |
+| 2026 | 12 | 12 | 3,767 | 3,731 | 67,207 | 98% |
 | 2025 | 12 | 12 | 3,500 | 3,428 | 61,776 | 98% |
 | 2024 | 12 | 12 | 3,881 | 3,839 | 69,206 | 96% |
 | 2023 | 12 | 11 | 3,928 | 3,867 | 69,624 | 94% |
@@ -57,7 +57,7 @@ To re-run a season, pass that season's event IDs from the CSV with `--data-dir d
 | 9 | 98424 | DGVTour #9 - Kingdom Open | 208 | 206 (99%) | Yes |  |
 | 10 | 98313 | DGVTour #10 - Capital City Cup | 126 | 126 (100%) | Yes |  |
 | 11 | 98254 | DGVTour #11 - Cold Hollow Classic | 302 | 300 (99%) | Yes |  |
-| Finals | 98262 | DGVTour Finals - Vermont State Championship | 0 | | | Not played yet (October 10-11) |
+| Finals | 98262 | DGVTour Finals - Vermont State Championship | 386 | 382 (99%) | Yes | Played October 10-11; scraped and processed October 11 |
 
 ### 2025
 
