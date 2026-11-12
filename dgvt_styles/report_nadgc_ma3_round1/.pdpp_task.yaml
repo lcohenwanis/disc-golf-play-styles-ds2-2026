@@ -1,0 +1,19 @@
+!!python/object:pdpp.tasks.standard_task.StandardTask
+dep_files:
+  _import_: !!python/object:pdpp.templates.dep_dataclass.dep_dataclass
+    dir_list:
+    - scouting
+    file_list: []
+    task_name: _import_
+    task_out: ./
+  report_nadgc_scouting: !!python/object:pdpp.templates.dep_dataclass.dep_dataclass
+    dir_list: []
+    file_list:
+    - nadgc_hole_estimates.csv
+    task_name: report_nadgc_scouting
+    task_out: output
+enabled: true
+language: Python
+src_files:
+- report_nadgc_ma3_round1.py
+target_dir: report_nadgc_ma3_round1

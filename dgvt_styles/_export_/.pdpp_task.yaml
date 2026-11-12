@@ -1,0 +1,54 @@
+!!python/object:pdpp.tasks.export_task.ExportTask
+dep_files:
+  build_hole_features: !!python/object:pdpp.templates.dep_dataclass.dep_dataclass
+    dir_list: []
+    file_list:
+    - hole_type_cutoffs.csv
+    task_name: build_hole_features
+    task_out: output
+  check_data_quality: !!python/object:pdpp.templates.dep_dataclass.dep_dataclass
+    dir_list: []
+    file_list:
+    - null_percentages.csv
+    - rating_status_counts.csv
+    - null_heatmap.png
+    task_name: check_data_quality
+    task_out: output
+  plot_case_study: !!python/object:pdpp.templates.dep_dataclass.dep_dataclass
+    dir_list: []
+    file_list:
+    - event_98254_layout_778928_MA2_strokes_gained.pdf
+    - event_98254_layout_778928_MA2_sg_style_adj.pdf
+    - event_98254_layout_778928_hole_types.pdf
+    - event_98254_layout_778928_MA2_tied_128.pdf
+    task_name: plot_case_study
+    task_out: output
+  report_nadgc_scouting: !!python/object:pdpp.templates.dep_dataclass.dep_dataclass
+    dir_list: []
+    file_list:
+    - nadgc_report.md
+    - nadgc_course_cards.png
+    - nadgc_course_cards.pdf
+    - nadgc_MA3_finish.png
+    - nadgc_MA3_finish.pdf
+    - nadgc_hole_estimates.csv
+    task_name: report_nadgc_scouting
+    task_out: output
+  report_state_championship: !!python/object:pdpp.templates.dep_dataclass.dep_dataclass
+    dir_list: []
+    file_list:
+    - report.md
+    - event_98262_all_divisions_vs_rating.png
+    - event_98262_all_divisions_vs_rating.pdf
+    - event_98262_MA2_strokes_gained.png
+    - event_98262_MA2_strokes_gained.pdf
+    - event_98262_MA2_sg_style_adj.png
+    - event_98262_MA2_sg_style_adj.pdf
+    - event_98262_MA2_course_cards.png
+    - event_98262_MA2_course_cards.pdf
+    task_name: report_state_championship
+    task_out: output
+enabled: true
+language: ''
+src_files: []
+target_dir: _export_

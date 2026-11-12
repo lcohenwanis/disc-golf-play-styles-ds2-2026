@@ -1,0 +1,13 @@
+!!python/object:pdpp.tasks.standard_task.StandardTask
+dep_files:
+  combine_seasons: !!python/object:pdpp.templates.dep_dataclass.dep_dataclass
+    dir_list: []
+    file_list:
+    - hole_scores.csv
+    task_name: combine_seasons
+    task_out: output
+enabled: true
+language: Python
+src_files:
+- build_hole_features.py
+target_dir: build_hole_features

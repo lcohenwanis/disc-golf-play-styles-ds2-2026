@@ -1,0 +1,20 @@
+!!python/object:pdpp.tasks.standard_task.StandardTask
+dep_files:
+  _import_: !!python/object:pdpp.templates.dep_dataclass.dep_dataclass
+    dir_list:
+    - scouting
+    file_list: []
+    task_name: _import_
+    task_out: ./
+  build_hole_features: !!python/object:pdpp.templates.dep_dataclass.dep_dataclass
+    dir_list: []
+    file_list:
+    - hole_features.csv
+    - hole_type_cutoffs.csv
+    task_name: build_hole_features
+    task_out: output
+enabled: true
+language: Python
+src_files:
+- report_nadgc_scouting.py
+target_dir: report_nadgc_scouting

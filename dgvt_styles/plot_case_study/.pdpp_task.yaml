@@ -1,0 +1,19 @@
+!!python/object:pdpp.tasks.standard_task.StandardTask
+dep_files:
+  build_hole_features: !!python/object:pdpp.templates.dep_dataclass.dep_dataclass
+    dir_list: []
+    file_list:
+    - hole_features.csv
+    task_name: build_hole_features
+    task_out: output
+  combine_seasons: !!python/object:pdpp.templates.dep_dataclass.dep_dataclass
+    dir_list: []
+    file_list:
+    - rounds.csv
+    task_name: combine_seasons
+    task_out: output
+enabled: true
+language: Python
+src_files:
+- plot_case_study.py
+target_dir: plot_case_study

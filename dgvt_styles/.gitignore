@@ -1,0 +1,12 @@
+# PDPP pipeline: task inputs and outputs are rebuilt by `pdpp run`, so only code and task metadata are tracked.
+# _import_ holds symlinks to data/<year>/processed and is tracked.
+*/input/*
+*/output/*
+!*/input/.gitkeep
+!*/output/.gitkeep
+_export_/*
+!_export_/.gitkeep
+!_export_/.pdpp_task.yaml
+
+# doit's record of what has run
+.doit.db*

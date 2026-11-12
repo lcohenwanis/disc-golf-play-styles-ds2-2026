@@ -1,0 +1,6 @@
+!!python/object:pdpp.tasks.import_task.ImportTask
+dep_files: {}
+enabled: true
+language: ''
+src_files: []
+target_dir: _import_
